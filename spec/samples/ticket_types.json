@@ -1,0 +1,17 @@
+[
+  {
+    "Ticket Name": "General Admission",
+    "Price": "10.00",
+    "Remaining": 185
+  },
+  {
+    "Ticket Name": "Student",
+    "Price": "5.00",
+    "Remaining": 185
+  },
+  {
+    "Ticket Name": "Comp",
+    "Price": "0.00",
+    "Remaining": 185
+  }
+]

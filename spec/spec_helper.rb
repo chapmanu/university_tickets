@@ -1,4 +1,3 @@
-require 'bundler/setup'
 require 'university_tickets'
 
 # Helpers for file paths
@@ -15,7 +14,7 @@ RSpec.configure do |config|
     mocks.verify_partial_doubles = true
   end
 
-  config.disable_monkey_patching!
+  # config.disable_monkey_patching!
   config.warnings = true
 
   # Documentation format when only running one file
@@ -24,7 +23,7 @@ RSpec.configure do |config|
   end
 
   # Show top 10 slowest test
-  config.profile_examples = 10
+  # config.profile_examples = 10
 
    # Ordering of tests
   config.order = :random
