@@ -1,5 +1,7 @@
+require 'university_tickets'
+
 # Helpers for file paths
-SPEC_ROOT = File.dirname(__file__)
+SPEC_ROOT = File.dirname(__FILE__)
 SAMPLES   = File.join(SPEC_ROOT, 'samples')
 
 RSpec.configure do |config|
@@ -26,5 +28,4 @@ RSpec.configure do |config|
    # Ordering of tests
   config.order = :random
   Kernel.srand config.seed
-
 end

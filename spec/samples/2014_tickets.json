@@ -1,0 +1,3500 @@
+[
+	{
+		"Event ID": "185",
+		"Event Title": "Training - General Admission",
+		"Event Date/Time": "Friday, October 31, 2014 5:00 PM",
+		"Description": "<p>This event will help demonstrate how a ticket can be sold to a general admission seating assignment event.</p>",
+		"Venue": "Argyros Forum",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=185",
+		"Quantity": "200",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "10.00",
+				"Remaining": 185
+			},
+			{
+				"Ticket Name": "Student",
+				"Price": "5.00",
+				"Remaining": 185
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 185
+			}
+		]
+	},
+	{
+		"Event ID": "442",
+		"Event Title": "Dodge College Training",
+		"Event Date/Time": "Sunday, February 9, 2014 2:00 PM",
+		"Description": "<p>Test event - GA</p>",
+		"Venue": "Knotts Studio - Folino Theatre",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=442",
+		"Quantity": "450",
+		"Tickets": [
+			{
+				"Ticket Name": "General Public/Admission",
+				"Price": "10.00",
+				"Remaining": 439
+			},
+			{
+				"Ticket Name": "Chapman Community",
+				"Price": "0.00",
+				"Remaining": 439
+			}
+		]
+	},
+	{
+		"Event ID": "615",
+		"Event Title": " A Night of Noh Theatre - 2/13",
+		"Event Date/Time": "Thursday, February 13, 2014 7:30 PM",
+		"Description": "<p>February 13-15, 20-22<br /><strong>A Night of Noh Theatre</strong><br />Conceived and Directed by Tamiko Washington<br /><br />The beauty of movement comes to life in this innovative and original adaptation of Japanese Noh Theatre, transformed on the stage using Tadashi Suzuki&rsquo;s captivating movement style.&nbsp; If you have the desire to be visually intrigued by the art of expressive storytelling, embracing unique and stunning physical theatre, please join us for an evening of unforgettable entertainment that will leave you wanting more.<br /><br />Waltmar Theatre <br />7:30pm, with an additional performance Feb. 22 at 2pm<br />$20 general admission; $15 senior citizens, students and alumni</p>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=615",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 185
+			}
+		]
+	},
+	{
+		"Event ID": "616",
+		"Event Title": " A Night of Noh Theatre - 2/14",
+		"Event Date/Time": "Friday, February 14, 2014 7:30 PM",
+		"Description": "<p>February 13-15, 20-22<br /><strong>A Night of Noh Theatre</strong><br />Conceived and Directed by Tamiko Washington<br /><br />The beauty of movement comes to life in this innovative and original adaptation of Japanese Noh Theatre, transformed on the stage using Tadashi Suzuki&rsquo;s captivating movement style.&nbsp; If you have the desire to be visually intrigued by the art of expressive storytelling, embracing unique and stunning physical theatre, please join us for an evening of unforgettable entertainment that will leave you wanting more.<br /><br />Waltmar Theatre <br />7:30pm, with an additional performance Feb. 22 at 2pm<br />$20 general admission; $15 senior citizens, students and alumni</p>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=616",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 133
+			}
+		]
+	},
+	{
+		"Event ID": "617",
+		"Event Title": " A Night of Noh Theatre - 2/15",
+		"Event Date/Time": "Saturday, February 15, 2014 7:30 PM",
+		"Description": "<p>February 13-15, 20-22<br /><strong>A Night of Noh Theatre</strong><br />Conceived and Directed by Tamiko Washington<br /><br />The beauty of movement comes to life in this innovative and original adaptation of Japanese Noh Theatre, transformed on the stage using Tadashi Suzuki&rsquo;s captivating movement style.&nbsp; If you have the desire to be visually intrigued by the art of expressive storytelling, embracing unique and stunning physical theatre, please join us for an evening of unforgettable entertainment that will leave you wanting more.<br /><br />Waltmar Theatre <br />7:30pm, with an additional performance Feb. 22 at 2pm<br />$20 general admission; $15 senior citizens, students and alumni</p>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=617",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 97
+			}
+		]
+	},
+	{
+		"Event ID": "618",
+		"Event Title": " A Night of Noh Theatre - 2/20",
+		"Event Date/Time": "Thursday, February 20, 2014 7:30 PM",
+		"Description": "<p>February 13-15, 20-22<br /><strong>A Night of Noh Theatre</strong><br />Conceived and Directed by Tamiko Washington<br /><br />The beauty of movement comes to life in this innovative and original adaptation of Japanese Noh Theatre, transformed on the stage using Tadashi Suzuki&rsquo;s captivating movement style.&nbsp; If you have the desire to be visually intrigued by the art of expressive storytelling, embracing unique and stunning physical theatre, please join us for an evening of unforgettable entertainment that will leave you wanting more.<br /><br />Waltmar Theatre <br />7:30pm, with an additional performance Feb. 22 at 2pm<br />$20 general admission; $15 senior citizens, students and alumni</p>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=618",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 177
+			}
+		]
+	},
+	{
+		"Event ID": "619",
+		"Event Title": " A Night of Noh Theatre - 2/21",
+		"Event Date/Time": "Friday, February 21, 2014 7:30 PM",
+		"Description": "<p>February 13-15, 20-22<br /><strong>A Night of Noh Theatre</strong><br />Conceived and Directed by Tamiko Washington<br /><br />The beauty of movement comes to life in this innovative and original adaptation of Japanese Noh Theatre, transformed on the stage using Tadashi Suzuki&rsquo;s captivating movement style.&nbsp; If you have the desire to be visually intrigued by the art of expressive storytelling, embracing unique and stunning physical theatre, please join us for an evening of unforgettable entertainment that will leave you wanting more.<br /><br />Waltmar Theatre <br />7:30pm, with an additional performance Feb. 22 at 2pm<br />$20 general admission; $15 senior citizens, students and alumni</p>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=619",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 87
+			}
+		]
+	},
+	{
+		"Event ID": "620",
+		"Event Title": " A Night of Noh Theatre - 2/22 7:30 pm",
+		"Event Date/Time": "Saturday, February 22, 2014 7:30 PM",
+		"Description": "<p>February 13-15, 20-22<br /><strong>A Night of Noh Theatre</strong><br />Conceived and Directed by Tamiko Washington<br /><br />The beauty of movement comes to life in this innovative and original adaptation of Japanese Noh Theatre, transformed on the stage using Tadashi Suzuki&rsquo;s captivating movement style.&nbsp; If you have the desire to be visually intrigued by the art of expressive storytelling, embracing unique and stunning physical theatre, please join us for an evening of unforgettable entertainment that will leave you wanting more.<br /><br />Waltmar Theatre <br />7:30pm, with an additional performance Feb. 22 at 2pm<br />$20 general admission; $15 senior citizens, students and alumni</p>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=620",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 132
+			}
+		]
+	},
+	{
+		"Event ID": "621",
+		"Event Title": " A Night of Noh Theatre - 2/22 2 pm",
+		"Event Date/Time": "Saturday, February 22, 2014 2:00 PM",
+		"Description": "<p>February 13-15, 20-22<br /><strong>A Night of Noh Theatre</strong><br />Conceived and Directed by Tamiko Washington<br /><br />The beauty of movement comes to life in this innovative and original adaptation of Japanese Noh Theatre, transformed on the stage using Tadashi Suzuki&rsquo;s captivating movement style.&nbsp; If you have the desire to be visually intrigued by the art of expressive storytelling, embracing unique and stunning physical theatre, please join us for an evening of unforgettable entertainment that will leave you wanting more.<br /><br />Waltmar Theatre <br />7:30pm, with an additional performance Feb. 22 at 2pm<br />$20 general admission; $15 senior citizens, students and alumni</p>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=621",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 129
+			}
+		]
+	},
+	{
+		"Event ID": "623",
+		"Event Title": "Machinal  4/10",
+		"Event Date/Time": "Thursday, April 10, 2014 7:30 PM",
+		"Description": "<p>April 10-12, 17-19<br /><strong><em>Machinal</em> by Sophie Treadwell<br /></strong><em>Directed by Matthew McCray<br /><br /></em>Trapped first in a dead-end job and then&nbsp;a loveless marriage, Helen&nbsp;longs for&nbsp;a bit of joy and tenderness that&nbsp;her harsh and male-dominated world cannot provide. Sophie Treadwell's brilliant 1929 expressionistic play explores gender roles and the illusion of choice in contemporary society. With a large cast, integrated media and sonic score,&nbsp;this production is&nbsp;a post-modern examination of&nbsp;how&nbsp;suppression can drive an individual to commit desperate and horrible acts.<br /><br />Waltmar Theatre <br />7:30pm, with an additional performance Apr. 19 at 2pm<br />$20 general admission; $15 senior citizens, students and alumni</p>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=623",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 163
+			}
+		]
+	},
+	{
+		"Event ID": "624",
+		"Event Title": "Machinal  4/11",
+		"Event Date/Time": "Friday, April 11, 2014 7:30 PM",
+		"Description": "<p>April 10-12, 17-19<br /><strong><em>Machinal</em> by Sophie Treadwell<br /></strong><em>Directed by Matthew McCray<br /><br /></em>Trapped first in a dead-end job and then&nbsp;a loveless marriage, Helen&nbsp;longs for&nbsp;a bit of joy and tenderness that&nbsp;her harsh and male-dominated world cannot provide. Sophie Treadwell's brilliant 1929 expressionistic play explores gender roles and the illusion of choice in contemporary society. With a large cast, integrated media and sonic score,&nbsp;this production is&nbsp;a post-modern examination of&nbsp;how&nbsp;suppression can drive an individual to commit desperate and horrible acts.<br /><br />Waltmar Theatre <br />7:30pm, with an additional performance Apr. 19 at 2pm<br />$20 general admission; $15 senior citizens, students and alumni</p>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=624",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 149
+			}
+		]
+	},
+	{
+		"Event ID": "625",
+		"Event Title": "Machinal  4/12",
+		"Event Date/Time": "Saturday, April 12, 2014 7:30 PM",
+		"Description": "<p>April 10-12, 17-19<br /><strong><em>Machinal</em> by Sophie Treadwell<br /></strong><em>Directed by Matthew McCray<br /><br /></em>Trapped first in a dead-end job and then&nbsp;a loveless marriage, Helen&nbsp;longs for&nbsp;a bit of joy and tenderness that&nbsp;her harsh and male-dominated world cannot provide. Sophie Treadwell's brilliant 1929 expressionistic play explores gender roles and the illusion of choice in contemporary society. With a large cast, integrated media and sonic score,&nbsp;this production is&nbsp;a post-modern examination of&nbsp;how&nbsp;suppression can drive an individual to commit desperate and horrible acts.<br /><br />Waltmar Theatre <br />7:30pm, with an additional performance Apr. 19 at 2pm<br />$20 general admission; $15 senior citizens, students and alumni</p>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=625",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 88
+			}
+		]
+	},
+	{
+		"Event ID": "626",
+		"Event Title": "Machinal  4/17",
+		"Event Date/Time": "Thursday, April 17, 2014 7:30 PM",
+		"Description": "<p>April 10-12, 17-19<br /><strong><em>Machinal</em> by Sophie Treadwell<br /></strong><em>Directed by Matthew McCray<br /><br /></em>Trapped first in a dead-end job and then&nbsp;a loveless marriage, Helen&nbsp;longs for&nbsp;a bit of joy and tenderness that&nbsp;her harsh and male-dominated world cannot provide. Sophie Treadwell's brilliant 1929 expressionistic play explores gender roles and the illusion of choice in contemporary society. With a large cast, integrated media and sonic score,&nbsp;this production is&nbsp;a post-modern examination of&nbsp;how&nbsp;suppression can drive an individual to commit desperate and horrible acts.<br /><br />Waltmar Theatre <br />7:30pm, with an additional performance Apr. 19 at 2pm<br />$20 general admission; $15 senior citizens, students and alumni</p>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=626",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 104
+			}
+		]
+	},
+	{
+		"Event ID": "627",
+		"Event Title": "Machinal  4/18",
+		"Event Date/Time": "Friday, April 18, 2014 7:30 PM",
+		"Description": "<p>April 10-12, 17-19<br /><strong><em>Machinal</em> by Sophie Treadwell<br /></strong><em>Directed by Matthew McCray<br /><br /></em>Trapped first in a dead-end job and then&nbsp;a loveless marriage, Helen&nbsp;longs for&nbsp;a bit of joy and tenderness that&nbsp;her harsh and male-dominated world cannot provide. Sophie Treadwell's brilliant 1929 expressionistic play explores gender roles and the illusion of choice in contemporary society. With a large cast, integrated media and sonic score,&nbsp;this production is&nbsp;a post-modern examination of&nbsp;how&nbsp;suppression can drive an individual to commit desperate and horrible acts.<br /><br />Waltmar Theatre <br />7:30pm, with an additional performance Apr. 19 at 2pm<br />$20 general admission; $15 senior citizens, students and alumni</p>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=627",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 105
+			}
+		]
+	},
+	{
+		"Event ID": "628",
+		"Event Title": "Machinal  4/19 7:30 pm",
+		"Event Date/Time": "Saturday, April 19, 2014 7:30 PM",
+		"Description": "<p>April 10-12, 17-19<br /><strong><em>Machinal</em> by Sophie Treadwell<br /></strong><em>Directed by Matthew McCray<br /><br /></em>Trapped first in a dead-end job and then&nbsp;a loveless marriage, Helen&nbsp;longs for&nbsp;a bit of joy and tenderness that&nbsp;her harsh and male-dominated world cannot provide. Sophie Treadwell's brilliant 1929 expressionistic play explores gender roles and the illusion of choice in contemporary society. With a large cast, integrated media and sonic score,&nbsp;this production is&nbsp;a post-modern examination of&nbsp;how&nbsp;suppression can drive an individual to commit desperate and horrible acts.<br /><br />Waltmar Theatre <br />7:30pm, with an additional performance Apr. 19 at 2pm<br />$20 general admission; $15 senior citizens, students and alumni</p>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=628",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 88
+			}
+		]
+	},
+	{
+		"Event ID": "629",
+		"Event Title": "Machinal  4/19 2:00 pm",
+		"Event Date/Time": "Saturday, April 19, 2014 2:00 PM",
+		"Description": "<p>April 10-12, 17-19<br /><strong><em>Machinal</em> by Sophie Treadwell<br /></strong><em>Directed by Matthew McCray<br /><br /></em>Trapped first in a dead-end job and then&nbsp;a loveless marriage, Helen&nbsp;longs for&nbsp;a bit of joy and tenderness that&nbsp;her harsh and male-dominated world cannot provide. Sophie Treadwell's brilliant 1929 expressionistic play explores gender roles and the illusion of choice in contemporary society. With a large cast, integrated media and sonic score,&nbsp;this production is&nbsp;a post-modern examination of&nbsp;how&nbsp;suppression can drive an individual to commit desperate and horrible acts.<br /><br />Waltmar Theatre <br />7:30pm, with an additional performance Apr. 19 at 2pm<br />$20 general admission; $15 senior citizens, students and alumni</p>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=629",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 162
+			}
+		]
+	},
+	{
+		"Event ID": "630",
+		"Event Title": "Guest Artist in Recital - Bruce Sledge, tenor",
+		"Event Date/Time": "Saturday, February 8, 2014 7:30 PM",
+		"Description": "<p><strong><span style=\"font-size: 14px;\">Guest Artist in Recital - Bruce Sledge, tenor with Cheryl Fielding, pianist<br /></span></strong></p> <p>Program to include works by Bellini, Duparc, Rachmaninov, Strauss and Puccini.</p> <p><span style=\"text-decoration: underline;\"><span>About Bruce Sledge:</span></span><br />Bruce Sledge is one of today&rsquo;s most in-demand tenori di grazia and sings a wide variety of repertoire with many international houses.&nbsp; Last season, Mr. Sledge returned to the Metropolitan Opera in two Mozart roles: Tamino in The Magic Flute and Ferrando in Cos&igrave; Fan Tutte.&nbsp; Additionally, Mr. Sledge made his debut with the Minnesota Opera in a new role, Leicester in Donizetti&rsquo;s Maria Stuarda, followed by Tamino with the Manitoba Opera and Almaviva in Hamburg and in Grand Rapids before making his debut in Avenches, Switzerland, as the Duke of Mantua in Rigoletto.&nbsp; In concert he was heard in Mozart&rsquo;s Requiem with the San Francisco Symphony and in Schubert&rsquo;s Mass No. 6 with the San Diego Symphony.&nbsp; For the 2011-2012 season he returns to the Metropolitan Opera for Don Ottavio in a new production of Don Giovanni and Paolo in Rossini&rsquo;s Maometto Il with Santa Fe Opera.&nbsp; Future projects include a return to the Metropolitan Opera and a debut with the Welsh National Opera.&nbsp; <a href=\"http://www.bsledge.com/index.html\" target=\"_blank\">Learn more...</a></p>",
+		"Venue": "Salmon Recital Hall, Bertea Hall 100",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=630",
+		"Quantity": "150",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "10.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Senior Citizens (55+)",
+				"Price": "5.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Non-Chapman Student",
+				"Price": "5.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "0.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Music Student",
+				"Price": "0.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "CoPA Faculty",
+				"Price": "0.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Chapman Alumni",
+				"Price": "5.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Chapman Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "632",
+		"Event Title": "Guest Artist in Recital - Third Wheel Trio",
+		"Event Date/Time": "Sunday, March 2, 2014 2:00 PM",
+		"Description": "<p><strong><span style=\"font-size: 14px;\">Guest Artist in Recital - Third Wheel Trio<br /></span></strong></p> <p>Adrienne Geffen, clarinet; Karin Kantenwein Fabiero, flute; and Rebecca Rivera, bassoon.</p> <p>Locally grown chamber music. Program to be announced.</p>",
+		"Venue": "Salmon Recital Hall, Bertea Hall 100",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=632",
+		"Quantity": "125",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "10.00",
+				"Remaining": 102
+			},
+			{
+				"Ticket Name": "Senior Citizens (55+)",
+				"Price": "5.00",
+				"Remaining": 102
+			},
+			{
+				"Ticket Name": "Non-Chapman Student",
+				"Price": "5.00",
+				"Remaining": 102
+			},
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "0.00",
+				"Remaining": 102
+			},
+			{
+				"Ticket Name": "Music Student",
+				"Price": "0.00",
+				"Remaining": 102
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 102
+			},
+			{
+				"Ticket Name": "CoPA Faculty",
+				"Price": "0.00",
+				"Remaining": 102
+			},
+			{
+				"Ticket Name": "Chapman Alumni",
+				"Price": "5.00",
+				"Remaining": 102
+			},
+			{
+				"Ticket Name": "Chapman Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 102
+			}
+		]
+	},
+	{
+		"Event ID": "633",
+		"Event Title": "Guest Artists in Recital - Da Capo",
+		"Event Date/Time": "Wednesday, March 12, 2014 8:00 PM",
+		"Description": "<p><strong><span style=\"font-size: 14px;\">Guest Artists in Recital - Da Capo<br /></span></strong></p> <p>Program to include works by Chinary Ung, Sean Heim, Yumiko Morita, and Aaron Gervais - including the west coast premier of the chamber version of Chinary Ung&rsquo;s critically acclaimed viola concerto, Singing Inside Aura, featuring Susan Ung - viola soloist.</p>",
+		"Venue": "Salmon Recital Hall, Bertea Hall 100",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=633",
+		"Quantity": "125",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "10.00",
+				"Remaining": 36
+			},
+			{
+				"Ticket Name": "Senior Citizens (55+)",
+				"Price": "5.00",
+				"Remaining": 36
+			},
+			{
+				"Ticket Name": "Non-Chapman Student",
+				"Price": "5.00",
+				"Remaining": 36
+			},
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "0.00",
+				"Remaining": 36
+			},
+			{
+				"Ticket Name": "Music Student",
+				"Price": "0.00",
+				"Remaining": 36
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 36
+			},
+			{
+				"Ticket Name": "CoPA Faculty",
+				"Price": "0.00",
+				"Remaining": 36
+			},
+			{
+				"Ticket Name": "Chapman Alumni",
+				"Price": "5.00",
+				"Remaining": 36
+			},
+			{
+				"Ticket Name": "Chapman Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 36
+			}
+		]
+	},
+	{
+		"Event ID": "634",
+		"Event Title": "Guest Artists in Recital - Huang/Zheng",
+		"Event Date/Time": "Tuesday, April 1, 2014 7:30 PM",
+		"Description": "<p><strong><span style=\"font-size: 14px;\">Guest Artists in Recital - Bin Huang, violin &amp; Yin Zheng, piano<br /></span></strong></p> <p>Bin Huang, Gold Medalist at the Paganini Competition, Top Laureate at Queen Elisabeth, Tchaikovsky and Munich ARD Competitions, and a distinguished faculty member at Shanghai Conservatory will perform an all-Mozart program with Yin Zheng, Piano Professor at Virginia Commonwealth University.</p>",
+		"Venue": "Salmon Recital Hall, Bertea Hall 100",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=634",
+		"Quantity": "125",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "10.00",
+				"Remaining": 102
+			},
+			{
+				"Ticket Name": "Senior Citizens (55+)",
+				"Price": "5.00",
+				"Remaining": 102
+			},
+			{
+				"Ticket Name": "Non-Chapman Student",
+				"Price": "5.00",
+				"Remaining": 102
+			},
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "0.00",
+				"Remaining": 102
+			},
+			{
+				"Ticket Name": "Music Student",
+				"Price": "0.00",
+				"Remaining": 102
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 102
+			},
+			{
+				"Ticket Name": "CoPA Faculty",
+				"Price": "0.00",
+				"Remaining": 102
+			},
+			{
+				"Ticket Name": "Chapman Alumni",
+				"Price": "5.00",
+				"Remaining": 102
+			},
+			{
+				"Ticket Name": "Chapman Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 102
+			}
+		]
+	},
+	{
+		"Event ID": "635",
+		"Event Title": "University Singers Post-Tour Concert",
+		"Event Date/Time": "Friday, February 7, 2014 7:30 PM",
+		"Description": "<p><strong><span style=\"font-size: 14px;\"><strong style=\"font-size: 14px;\"><strong style=\"font-size: 14px;\"><strong>University Singers Post-Tour Concert</strong></strong></strong></span></strong></p> <p><em><em>Stephen Coker, <em>Conductor</em></em></em></p> <p>This 34-voice choir&rsquo;s tour repertoire includes music of Victoria, Brahms, Britten, Aharon Harlap, and Hyo-won Woo as well as folk music Uruguay, Nigeria, and Finland.</p> <p><span style=\"text-decoration: underline;\"><img style=\"float: right;\" src=\"http://www.chapman.edu/our-faculty/files/small-photos/faculty/Coker_S.jpg\" alt=\"Headshot of Stephen Coker\" width=\"110\" height=\"130\" />About Stephen Coker:</span><br /><span class=\"replace\"><span class=\"replace\"><span class=\"replace\">Stephen Coker is Director of Choral Activities and Associate Professor of Music at Chapman University.&nbsp; Prior to this appointment, Dr. Coker served on the faculties of Portland State University (2006-2009), the University of Cincinnati College-Conservatory of Music (CCM) from 2000-2006, and Oklahoma City University (OCU) from 1975-2000.</span></span>&nbsp; <a href=\"http://www.chapman.edu/our-faculty/stephen-coker\" target=\"_blank\">Learn more...</a></span></p>",
+		"Venue": "Fish Interfaith Center",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=635",
+		"Quantity": "250",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "15.00",
+				"Remaining": 116
+			},
+			{
+				"Ticket Name": "Senior Citizens (55+)",
+				"Price": "10.00",
+				"Remaining": 116
+			},
+			{
+				"Ticket Name": "Non-Chapman Student",
+				"Price": "10.00",
+				"Remaining": 116
+			},
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "5.00",
+				"Remaining": 116
+			},
+			{
+				"Ticket Name": "Music Student",
+				"Price": "0.00",
+				"Remaining": 116
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 116
+			},
+			{
+				"Ticket Name": "CoPA Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 116
+			},
+			{
+				"Ticket Name": "Chapman Alumni",
+				"Price": "10.00",
+				"Remaining": 116
+			},
+			{
+				"Ticket Name": "Chapman Faculty/Staff",
+				"Price": "5.00",
+				"Remaining": 116
+			}
+		]
+	},
+	{
+		"Event ID": "636",
+		"Event Title": "University Choir & University Singers in Concert",
+		"Event Date/Time": "Friday, April 4, 2014 7:30 PM",
+		"Description": "<p><strong><span style=\"font-size: 14px;\"><strong style=\"font-size: 14px;\"><strong style=\"font-size: 14px;\"><strong>University Choir &amp; University Singers in Concert</strong></strong></strong></span></strong></p> <p><em><em>Stephen Coker, <em>Conductor</em></em></em></p> <p>Works performed will include music of Paul Mealor, Morten Lauridsen, Benjamin Britten, and Bob Chilcott.</p> <p><span style=\"text-decoration: underline;\"><img style=\"float: right;\" src=\"http://www.chapman.edu/our-faculty/files/small-photos/faculty/Coker_S.jpg\" alt=\"Headshot of Stephen Coker\" width=\"110\" height=\"130\" />About Stephen Coker:</span><br /><span class=\"replace\"><span class=\"replace\"><span class=\"replace\">Stephen Coker is Director of Choral Activities and Associate Professor of Music at Chapman University.&nbsp; Prior to this appointment, Dr. Coker served on the faculties of Portland State University (2006-2009), the University of Cincinnati College-Conservatory of Music (CCM) from 2000-2006, and Oklahoma City University (OCU) from 1975-2000.</span></span>&nbsp; <a href=\"http://www.chapman.edu/our-faculty/stephen-coker\" target=\"_blank\">Learn more...</a></span></p>",
+		"Venue": "Fish Interfaith Center",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=636",
+		"Quantity": "250",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "15.00",
+				"Remaining": 112
+			},
+			{
+				"Ticket Name": "Senior Citizens (55+)",
+				"Price": "10.00",
+				"Remaining": 112
+			},
+			{
+				"Ticket Name": "Non-Chapman Student",
+				"Price": "10.00",
+				"Remaining": 112
+			},
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "5.00",
+				"Remaining": 112
+			},
+			{
+				"Ticket Name": "Music Student",
+				"Price": "0.00",
+				"Remaining": 112
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 112
+			},
+			{
+				"Ticket Name": "CoPA Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 112
+			},
+			{
+				"Ticket Name": "Chapman Alumni",
+				"Price": "10.00",
+				"Remaining": 112
+			},
+			{
+				"Ticket Name": "Chapman Faculty/Staff",
+				"Price": "5.00",
+				"Remaining": 112
+			}
+		]
+	},
+	{
+		"Event ID": "637",
+		"Event Title": "Big Band & Jazz Combos",
+		"Event Date/Time": "Tuesday, April 8, 2014 7:30 PM",
+		"Description": "<p><strong><span style=\"font-size: 14px;\"><strong style=\"font-size: 14px;\"><strong style=\"font-size: 14px;\">Big Band &amp; Jazz Combos<br /></strong></strong></span></strong></p> <p><em>Albert Alva, Director</em></p> <p>Since 2005, Albert Alva has taken the Chapman University Big Band and Jazz Combos to new musical heights.&nbsp; Besides performing standard repertoire in all genres of jazz, Chapman University Big Band students are very fortunate to perform original works from the library of jazz drum legend Louie Bellson.</p> <p><span style=\"text-decoration: underline;\"><img style=\"float: right;\" src=\"http://www.chapman.edu/our-faculty/files/small-photos/adjunct-faculty/Alva_A.jpg\" alt=\"Headshot of Albert Alva\" width=\"110\" height=\"130\" />About Albert Alva:</span><br /><span class=\"replace\"><span class=\"replace\">After graduating Chaffey College, Albert Alva attended the Los Angeles Jazz Workshop.&nbsp; He has toured with Ben Vereen, Leslie Uggams, Jerry Lewis, Michael Feinstein, Ann Hampton Calloway, and Ken Peplowski.&nbsp; He has also played in various bands backing such artists as Mel Torme, Joe Williams, Diane Schuur, Jack Jones, and the Captain &amp; Tennile.&nbsp; Recording credits include Toni Tennile, Renee Olstead, Matt Catingub, Clark Terry, Louie Bellson, and Rosemary Clooney's last recording called \"Sentimental Journey\" for Concord Records.&nbsp; It was nominated for a Grammy Award.&nbsp;</span> <a href=\"http://www.chapman.edu/our-faculty/albert-alva\" target=\"_blank\">Learn more...</a><br /></span></p>",
+		"Venue": "Chapman Auditorium, Memorial Hall",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=637",
+		"Quantity": "300",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "15.00",
+				"Remaining": 199
+			},
+			{
+				"Ticket Name": "Senior Citizens (55+)",
+				"Price": "10.00",
+				"Remaining": 199
+			},
+			{
+				"Ticket Name": "Non-Chapman Student",
+				"Price": "10.00",
+				"Remaining": 199
+			},
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "5.00",
+				"Remaining": 199
+			},
+			{
+				"Ticket Name": "Music Student",
+				"Price": "0.00",
+				"Remaining": 199
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 199
+			},
+			{
+				"Ticket Name": "CoPA Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 199
+			},
+			{
+				"Ticket Name": "Chapman Alumni",
+				"Price": "10.00",
+				"Remaining": 199
+			},
+			{
+				"Ticket Name": "Chapman Faculty/Staff",
+				"Price": "5.00",
+				"Remaining": 199
+			}
+		]
+	},
+	{
+		"Event ID": "638",
+		"Event Title": "Artist-in-Residence - Milena Kitic, mezzo-soprano",
+		"Event Date/Time": "Saturday, April 5, 2014 2:00 PM",
+		"Description": "<p><strong><span style=\"font-size: 14px;\">Artist-in-Residence in Recital - Milena Kitic, mezzo-soprano<br /></span></strong></p> <p>Works by Rossini, Rachmaninoff, Montsalvatge, de Falla, and Obradors and arias from <em>Werther</em> and <em>Carmen</em>.</p> <p><span style=\"text-decoration: underline;\"><img style=\"float: right;\" src=\"http://www.chapman.edu/our-faculty/files/small-photos/adjunct-faculty/Kitic_M.jpg\" alt=\"Milena Kitic\" width=\"110\" height=\"130\" />About Milena Kitic:<br /></span>A star of the Belgrade Opera, Serbia (former Yugoslavia), Ms. Kitic made her debut in 1989 as Olga in Tchaikovsky's \"Eugene Onegin\".&nbsp; She has performed with the National Theater in Belgrade for 8 years in a wide range of roles: from Rosina in Rossini's \"Il Baribiere di Siviglia\", Cherubino in Mozart's \"Le Nozze di Figaro\", Preziosilla in Verdi's \"La Forza del Destino\", Fenena in \"Nabucco'', Bastien in \"Bastien e Bastiena\", Flora in \"Traviata\", Lola in \"Cavalleria Rusticana\", Mercedes in \"Carmen\", Orlofsky in \"Die Fledermaus\", Fiodor in \"Boris Godunov\" - to the title role of Carmen, and Principessa de Bouillon in Cilea's \"Adriana Lecouvreur.\"&nbsp; <a href=\"http://www.chapman.edu/our-faculty/milena-kitic\" target=\"_blank\">Learn more...</a></p>",
+		"Venue": "Salmon Recital Hall, Bertea Hall 100",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=638",
+		"Quantity": "200",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "15.00",
+				"Remaining": 51
+			},
+			{
+				"Ticket Name": "Senior Citizens (55+)",
+				"Price": "10.00",
+				"Remaining": 51
+			},
+			{
+				"Ticket Name": "Non-Chapman Student",
+				"Price": "10.00",
+				"Remaining": 51
+			},
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "5.00",
+				"Remaining": 51
+			},
+			{
+				"Ticket Name": "Music Student",
+				"Price": "0.00",
+				"Remaining": 51
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 51
+			},
+			{
+				"Ticket Name": "CoPA Faculty",
+				"Price": "0.00",
+				"Remaining": 51
+			},
+			{
+				"Ticket Name": "Chapman Alumni",
+				"Price": "10.00",
+				"Remaining": 51
+			},
+			{
+				"Ticket Name": "Chapman Faculty/Staff",
+				"Price": "5.00",
+				"Remaining": 51
+			}
+		]
+	},
+	{
+		"Event ID": "639",
+		"Event Title": "Faculty Recital - Karen Knecht, piano",
+		"Event Date/Time": "Wednesday, April 16, 2014 8:00 PM",
+		"Description": "<p><strong><span style=\"font-size: 14px;\">Faculty Recital - Karen Knecht, piano with Laszlo Mezo, cello<br /></span></strong></p> <p>Program to be announced.</p> <p><img style=\"float: right;\" src=\"http://www.chapman.edu/our-faculty/files/small-photos/adjunct-faculty/Knecht_K.jpg\" alt=\"Karen Knecht\" width=\"110\" height=\"130\" /><span style=\"text-decoration: underline;\">About Karen Knecht:<br /></span><span class=\"replace\">Karen Knecht, M.F.A.,&nbsp;received her early musical training at the Juilliard School of Music. She went on to earn a Bachelor's degree in music from Indiana University where she studied with Sidney Foster and Abbey Simon.&nbsp; She also holds a Master of Fine Arts Degree from The State University of New York at Buffalo where she worked with Frina Arshanska Boldt.&nbsp; She has appeared as a duo piano partner with Tania Fleischer, Joseph Matthews, and as assisting artist with the duo Arshanska and Boldt.&nbsp; Other duo partnerships have included performances with cellists Elizabeth Anderson and Richard Treat, and Los Angeles Philharmonic violinist Mischa Lefkowitz and hornist Brian Drake.&nbsp; <a href=\"http://www.chapman.edu/our-faculty/karen-knecht\" target=\"_blank\">Learn more...</a><br /></span></p> <p><span class=\"replace\"><img style=\"float: right;\" src=\"http://www.chapman.edu/our-faculty/files/small-photos/adjunct-faculty/Mezo_L.jpg\" alt=\"Laszlo Mezo\" width=\"110\" height=\"130\" /><span style=\"text-decoration: underline;\">About Laszlo Mezo:</span></span><br /><span class=\"replace\">Born in Budapest, Hungary, Laszlo Mezo gained national recognition as one of the top musicians of his generation when he won First Prize in the &ldquo;Kert&eacute;sz Ott&oacute; Memorial Competition&rdquo; at the young age of 18. Since then, he has won numerous other competitions which have brought him international recognition including the Fourth Prize in the &ldquo;Antonio Janigro Junior International Competition&rdquo; in 1998, Second Prize in the &ldquo;International D&aacute;vid Popper Competition for Young Cellists&rdquo; in 2000, the Special Prize in the &ldquo;International D&aacute;vid Popper Cello Competition&rdquo; in 2004, and First Prize in the &ldquo;Ima Hogg International Competition&rdquo; in 2008.&nbsp; <a href=\"http://www.chapman.edu/our-faculty/laszlo-mezo\" target=\"_blank\">Learn more...</a><br /></span></p>",
+		"Venue": "Salmon Recital Hall, Bertea Hall 100",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=639",
+		"Quantity": "125",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "10.00",
+				"Remaining": 67
+			},
+			{
+				"Ticket Name": "Senior Citizens (55+)",
+				"Price": "5.00",
+				"Remaining": 67
+			},
+			{
+				"Ticket Name": "Non-Chapman Student",
+				"Price": "5.00",
+				"Remaining": 67
+			},
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "0.00",
+				"Remaining": 67
+			},
+			{
+				"Ticket Name": "Music Student",
+				"Price": "0.00",
+				"Remaining": 67
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 67
+			},
+			{
+				"Ticket Name": "CoPA Faculty",
+				"Price": "0.00",
+				"Remaining": 67
+			},
+			{
+				"Ticket Name": "Chapman Alumni",
+				"Price": "5.00",
+				"Remaining": 67
+			},
+			{
+				"Ticket Name": "Chapman Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 67
+			}
+		]
+	},
+	{
+		"Event ID": "640",
+		"Event Title": "Chapman University Wind Symphony",
+		"Event Date/Time": "Friday, April 11, 2014 7:30 PM",
+		"Description": "<p><strong><span style=\"font-size: 14px;\"><strong style=\"font-size: 14px;\"><strong style=\"font-size: 14px;\">Chapman University Wind Symphony<br /></strong></strong></span></strong></p> <p><em>Christopher Nicholas, Music Director and Conductor</em></p> <p>The Chapman University Wind Symphony has earned a reputation for its breadth of musicality and consistently high level of performance.&nbsp; Under the direction&nbsp;of Christopher Nicholas, the Wind Symphony performs a wide variety of repertoire, including established wind masterworks, transcriptions, and newly commissioned works.&nbsp; Program to include <em>Symphony no. I, The Lord of the Rings, I. Gandalf</em> (de Meij), <em>Enigma Variations</em> (Elgar/Slocum), <em>The Pines of Rome, IV. Pines of the Appian Way</em> (Respighi/Duker), <em>Blue Shades</em> (Ticheli), <em>Jocuri Poporale Romanesti</em> (Bartok/Goto), and <em>Angels With Dirty Faces</em> (Bonney).</p> <p><span style=\"text-decoration: underline;\"><img style=\"float: right;\" src=\"http://www.chapman.edu/our-faculty/files/small-photos/faculty/Nicholas_C.jpg\" alt=\"Christopher Nicholas\" width=\"110\" height=\"130\" />About Christopher Nicholas:</span><br /><span class=\"replace\"><span class=\"replace\"><span class=\"replace\">Dr. Christopher Nicholas is the recently appointed Director of Bands and Director of Woodwind and Brass Studies at the Hall-Musco Conservatory of Music at Chapman University.&nbsp;Prior to his appointment at the Chapman Conservatory, Dr. Nicholas served as the Director of Bands at Colorado State University, as well as on the music faculties of the University of Wyoming, Grinnell College, and Kirkwood College. Dr. Nicholas received degrees from University of Illinois at Urbana-Champaign (BME) and the University of Iowa (MA, DMA).</span></span>&nbsp; <a href=\"http://www.chapman.edu/our-faculty/christopher-nicholas\" target=\"_blank\">Learn more...</a><br /></span></p>",
+		"Venue": "Chapman Auditorium, Memorial Hall",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=640",
+		"Quantity": "300",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "15.00",
+				"Remaining": 176
+			},
+			{
+				"Ticket Name": "Senior Citizens (55+)",
+				"Price": "10.00",
+				"Remaining": 176
+			},
+			{
+				"Ticket Name": "Non-Chapman Student",
+				"Price": "10.00",
+				"Remaining": 176
+			},
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "5.00",
+				"Remaining": 176
+			},
+			{
+				"Ticket Name": "Music Student",
+				"Price": "0.00",
+				"Remaining": 176
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 176
+			},
+			{
+				"Ticket Name": "CoPA Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 176
+			},
+			{
+				"Ticket Name": "Chapman Alumni",
+				"Price": "10.00",
+				"Remaining": 176
+			},
+			{
+				"Ticket Name": "Chapman Faculty/Staff",
+				"Price": "5.00",
+				"Remaining": 176
+			}
+		]
+	},
+	{
+		"Event ID": "641",
+		"Event Title": "University Women's Choir in Concert",
+		"Event Date/Time": "Sunday, May 4, 2014 5:00 PM",
+		"Description": "<p><strong><span style=\"font-size: 14px;\"><strong style=\"font-size: 14px;\"><strong style=\"font-size: 14px;\"><strong>University Women's Choir in Concert</strong></strong></strong></span></strong></p> <p><em><em>Angel V&aacute;zquez-Ramos, <em>Conductor</em></em></em></p> <p>Under the direction of Angel V&aacute;zquez-Ramos, the University Women&rsquo;s Choir performs advanced literature for women&rsquo;s voices, from the Renaissance to the most recent compositions.</p> <p><span style=\"text-decoration: underline;\"><img style=\"float: right;\" src=\"http://www.chapman.edu/our-faculty/files/small-photos/faculty/Vazquez-Ramos_A.jpg\" alt=\"Headshot of Angel Vazquez-Ramos\" width=\"110\" height=\"130\" />About Angel V&aacute;zquez-Ramos:</span><br /><span class=\"replace\"><span class=\"replace\"><span class=\"replace\">Angel M. V&aacute;zquez-Ramos, Assistant Professor of Choral Music at Chapman University, is a native of Carolina, Puerto Rico. He teaches undergraduate courses in music education and conducts the University Women's Choir. In addition, he conducts the Vocal Jazz Ensemble and supervises secondary music student teachers.&nbsp; Dr. V&aacute;zquez-Ramos is founder and director of the Chapman University Summer Choral Music Camp.&nbsp; Before completing his doctoral studies at Florida State University, he taught secondary choral music for seven years in Pinellas County Schools in the Tampa Bay Area. In addition, he worked as director of music ministries in churches in both Largo and Tallahassee, Florida. His research interest includes: teacher preparation, rehearsal techniques, adolescent choirs, and assessment in music education.&nbsp; <a href=\"http://www.chapman.edu/our-faculty/angel-vazquez-ramos\" target=\"_blank\">Learn more...</a></span></span><br class=\"replace\" /></span></p>",
+		"Venue": "Salmon Recital Hall, Bertea Hall 100",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=641",
+		"Quantity": "125",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "15.00",
+				"Remaining": 55
+			},
+			{
+				"Ticket Name": "Senior Citizens (55+)",
+				"Price": "10.00",
+				"Remaining": 55
+			},
+			{
+				"Ticket Name": "Non-Chapman Student",
+				"Price": "10.00",
+				"Remaining": 55
+			},
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "5.00",
+				"Remaining": 55
+			},
+			{
+				"Ticket Name": "Music Student",
+				"Price": "0.00",
+				"Remaining": 55
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 55
+			},
+			{
+				"Ticket Name": "CoPA Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 55
+			},
+			{
+				"Ticket Name": "Chapman Alumni",
+				"Price": "10.00",
+				"Remaining": 55
+			},
+			{
+				"Ticket Name": "Chapman Faculty/Staff",
+				"Price": "5.00",
+				"Remaining": 55
+			}
+		]
+	},
+	{
+		"Event ID": "642",
+		"Event Title": "Sholund Scholarship Concert",
+		"Event Date/Time": "Saturday, May 10, 2014 4:00 PM",
+		"Description": "<p><strong><span style=\"font-size: 14px;\"><strong style=\"font-size: 14px;\"><strong style=\"font-size: 14px;\"><strong>Sholund Scholarship Concert<br /></strong></strong></strong></span></strong></p> <p>This annual concert of the Hall-Musco Conservatory of Music will showcase the talents of our music students and will include both vocal and instrumental performances.</p> <p>Program to be announced.</p>",
+		"Venue": "Chapman Auditorium, Memorial Hall",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=642",
+		"Quantity": "350",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "20.00",
+				"Remaining": 283
+			},
+			{
+				"Ticket Name": "Senior Citizens (55+)",
+				"Price": "15.00",
+				"Remaining": 283
+			},
+			{
+				"Ticket Name": "Non-Chapman Student",
+				"Price": "15.00",
+				"Remaining": 283
+			},
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "10.00",
+				"Remaining": 283
+			},
+			{
+				"Ticket Name": "Music Student",
+				"Price": "0.00",
+				"Remaining": 283
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 283
+			},
+			{
+				"Ticket Name": "CoPA Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 283
+			},
+			{
+				"Ticket Name": "Chapman Alumni",
+				"Price": "15.00",
+				"Remaining": 283
+			},
+			{
+				"Ticket Name": "Chapman Faculty/Staff",
+				"Price": "10.00",
+				"Remaining": 283
+			}
+		]
+	},
+	{
+		"Event ID": "643",
+		"Event Title": "Forecast Update 2014 - EXPRESS TICKETS",
+		"Event Date/Time": "Thursday, June 19, 2014 8:30 AM",
+		"Description": "<p class=\"MsoNormal\" style=\"text-align: center; margin: 0in 0in 10pt;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Calibri;\">Hosted annually by the <a href=\"http://www.chapman.edu/research-and-institutions/anderson-center/index.aspx\">A. Gary Anderson Center for Economic Research at Chapman University</a>, the nationally recognized Economic Forecast Conference utilizes the faculty and student developed Chapman Econometric Model to analyze the California economy and greater global economic trends to provide national and local businesses and organizations with the information they need to make more effective planning and investment decisions.</span></span><span style=\"font-family: Calibri; font-size: 14px;\">&nbsp;</span></p> <p class=\"MsoNormal\" style=\"text-align: center; margin: 0in 0in 10pt;\"><span style=\"font-size: 14px;\"><em><strong><span style=\"font-family: Calibri;\">Review the economic trends of the past six months&nbsp;</span></strong></em></span><span style=\"font-size: 14px;\"><em><strong><span style=\"font-family: Calibri;\">and learn what is in store for the remainder of 2014 and into 2015!</span></strong></em></span></p> <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\">&nbsp;</p> <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Calibri;\"><strong>General Admission: $150</strong></span></span></p> <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><span style=\"font-size: 14px;\"><em><span style=\"font-family: Calibri;\">*Sponsorship opportunities available. Please call (714) 997-6841.<br /></span></em></span></p> <p class=\"MsoNormal\" style=\"text-align: center; margin: 0in 0in 10pt;\"><em><strong><span style=\"font-size: 14px;\"><span style=\"font-family: Calibri;\">This year's conference will be held on Thursday, June 19, 2014 at the <span class=\"pageTitle\">Ren&eacute;e and Henry Segerstrom Concert Hall at Segerstrom Center for the Arts.</span></span></span></strong></em></p> <h1 class=\"MsoNormal\" style=\"text-align: left; margin: 0in 0in 10pt;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Calibri;\">Time</span></span></h1> <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Calibri;\">7:30 A.M. &ndash; Doors Open and Continental Breakfast</span></span></p> <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Calibri;\">8:30 A.M. &ndash; Conference</span></span></p> <h1 class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Calibri;\">Parking</span></span></h1> <p>Complimentary self-parking available at the Park Center Garage and at the Center Tower Garage adjacent the Segerstrom Center for the Arts.</p> <p><a href=\"http://www.scfta.org/home/Content/ContentDisplay.aspx?NavID=386\">See map for details.</a></p>",
+		"Venue": "Segerstrom Center for the Arts",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=643",
+		"Quantity": "1400",
+		"Tickets": [
+			{
+				"Ticket Name": "EXPRESS TICKET",
+				"Price": "150.00",
+				"Remaining": 911
+			},
+			{
+				"Ticket Name": "Complimentary - EXPRESS TICKET",
+				"Price": "0.00",
+				"Remaining": 61
+			},
+			{
+				"Ticket Name": "Budget Transfer - EXPRESS TICKET",
+				"Price": "50.00",
+				"Remaining": 60
+			}
+		]
+	},
+	{
+		"Event ID": "645",
+		"Event Title": "President's Piano Series - Toradze/Kodanashvili",
+		"Event Date/Time": "Thursday, February 6, 2014 7:30 PM",
+		"Description": "<h3>President&rsquo;s Piano Series &ndash; Alexander Toradze and Vakhtang Kodanashvili</h3> <address><span style=\"font-size: 12px;\">Under the artistic direction of Grace Fong, each year the President's Piano Series presents internationally acclaimed pianists and ensembles from throughout the world that perform both solo and chamber music recitals. Alexander Toradze is universally recognized as a masterful virtuoso in the grand Romantic tradition.&nbsp; He has enriched the Great Russian pianistic heritage with his own interpretative conceptions, deeply poetic lyricism, and intensely emotional excitement. A native of Tbilisi, Georgia, Vakhtang Kodanashvili began his musical education at The Georgian Special School of Music, studying under Marina Gelashvili, and had his orchestral debut at the age of nine.</span><br /><span style=\"font-size: 12px;\">Salmon Recital Hall </span><span style=\"font-size: 12px;\">7:30pm</span><br /><span style=\"font-size: 12px;\">$25 general admission; $15 senior citizens, alumni and non-Chapman students</span><br /><span style=\"font-size: 12px;\">Subscription tickets also available.</span></address>",
+		"Venue": "Salmon Recital Hall, Bertea Hall 100",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=645",
+		"Quantity": "250",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "25.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Senior Citizens (55+)",
+				"Price": "15.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Chapman Community",
+				"Price": "10.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Non-Chapman Student",
+				"Price": "15.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Music Student",
+				"Price": "0.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "646",
+		"Event Title": "President's Piano Series - Jeffrey Siegel",
+		"Event Date/Time": "Thursday, March 6, 2014 7:30 PM",
+		"Description": "<h3>President&rsquo;s Piano Series &ndash; Jeffrey Siegel</h3> <address><span style=\"font-size: 12px;\">Under the artistic direction of Grace Fong, each year the President's Piano Series presents internationally acclaimed pianists and ensembles from throughout the world that perform both solo and chamber music recitals. Internationally acclaimed pianist Jeffrey Siegel has been soloist with the world's great orchestras. Abroad, these have included the Berlin Philharmonic, London Symphony, Philharmonic and Philharmonia, Moscow State Symphony, Munich's Bayerischer Rundfunk, the Amsterdam, Oslo and Stockholm Philharmonic Orchestras, Orchestra of La Scala and NHK Symphony of Japan.<br />Salmon Recital Hall 7:30pm<br />$25 general admission; $15 senior citizens, alumni and non-Chapman students<br />Subscription tickets also available.</span></address>",
+		"Venue": "Salmon Recital Hall, Bertea Hall 100",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=646",
+		"Quantity": "200",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "25.00",
+				"Remaining": 14
+			},
+			{
+				"Ticket Name": "Senior Citizens (55+)",
+				"Price": "15.00",
+				"Remaining": 14
+			},
+			{
+				"Ticket Name": "Chapman Community",
+				"Price": "10.00",
+				"Remaining": 14
+			},
+			{
+				"Ticket Name": "Non-Chapman Student",
+				"Price": "15.00",
+				"Remaining": 14
+			},
+			{
+				"Ticket Name": "Music Student",
+				"Price": "0.00",
+				"Remaining": 14
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 14
+			}
+		]
+	},
+	{
+		"Event ID": "647",
+		"Event Title": "President's Piano Series - The Naughtons",
+		"Event Date/Time": "Thursday, April 3, 2014 7:30 PM",
+		"Description": "<h3>President&rsquo;s Piano Series &ndash; Christina and Michelle Naughton</h3> <address><span style=\"font-size: 12px;\">Under the artistic direction of Grace Fong, each year the President's Piano Series presents internationally acclaimed pianists and ensembles from throughout the world that perform both solo and chamber music recitals.&nbsp; Christina and Michelle Naughton have been hailed by the <em>San Francisco Examiner</em> for their &ldquo;stellar musicianship, technical mastery, and awe-inspiring artistry.&rdquo;&nbsp; The Naughtons made their European debut at Herkulesaal in Munich, where the <em>Sueddeutsche Zeitung</em> proclaimed them &ldquo;an outstanding piano duo&rdquo;.<br />Salmon Recital Hall 7:30pm<br />$25 general admission; $15 senior citizens, alumni and non-Chapman students<br />Subscription tickets also available.</span></address>",
+		"Venue": "Salmon Recital Hall, Bertea Hall 100",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=647",
+		"Quantity": "250",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "25.00",
+				"Remaining": 53
+			},
+			{
+				"Ticket Name": "Senior Citizens (55+)",
+				"Price": "15.00",
+				"Remaining": 53
+			},
+			{
+				"Ticket Name": "Chapman Community",
+				"Price": "10.00",
+				"Remaining": 53
+			},
+			{
+				"Ticket Name": "Non-Chapman Student",
+				"Price": "15.00",
+				"Remaining": 53
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 53
+			},
+			{
+				"Ticket Name": "Music Student",
+				"Price": "0.00",
+				"Remaining": 53
+			}
+		]
+	},
+	{
+		"Event ID": "648",
+		"Event Title": "President's Piano Series - PACKAGE 2/6, 3/6, 4/3",
+		"Event Date/Time": "Thursday, February 6, 2014 7:30 PM",
+		"Description": "<h3>President's Piano Series<br />Subscription Package</h3> <p><em>Featuring four internationally renowned pianists:</em></p> <table width=\"850\" align=\"center\"> <tbody> <tr> <td align=\"middle\" valign=\"top\" width=\"250\"> <h3><br />&nbsp;Alexander Toradze and Vakhtang Kodanashvili<br />Duo Piano Concert</h3> <h4>Thursday, February 6, 2014<br />7:30pm</h4> </td> <td align=\"middle\" valign=\"top\" width=\"250\"> <h3><br />Jeffrey Siegel</h3> <h3>Thursday, March 6, 2014<br />7:30pm<br /><br /></h3> </td> <td align=\"middle\" valign=\"top\" width=\"250\"> <h3><br />Christina and Michelle Naughton</h3> <h3>Thursday, April 3, 2014<br />7:30pm</h3> </td> </tr> </tbody> </table> <p><em>Grace Fong, Artistic Director</em></p> <p>The President&rsquo;s Piano Series presents internationally acclaimed pianists and ensembles from throughout the world in both solo and chamber music recitals. In addition to evening performances, there will also be educational master class opportunities open to the public.&nbsp;</p> <p>These concerts are presented as part of a \"Subscription Series\" - individual concert tickets can also be <a href=\"../user_pages/category.asp?id=38\" target=\"_self\">purchased in advance</a>.</p>",
+		"Venue": "Salmon Recital Hall, Bertea Hall 100",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=648",
+		"Quantity": "45",
+		"Tickets": [
+			{
+				"Ticket Name": "Package Price",
+				"Price": "60.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "649",
+		"Event Title": "Opera Chapman - Marriage of Figaro (FRI)",
+		"Event Date/Time": "Friday, April 25, 2014 7:30 PM",
+		"Description": "<p><strong><span style=\"font-size: 14px;\">Opera Chapman presents<br /><em>Le Nozze di Figaro</em> (The Marriage of Figaro)<br /></span><span style=\"font-size: 14px;\">Friday, April 25, 2014</span></strong><strong><em><br /></em></strong><strong>In collaboration with The Chapman Orchestra</strong></p> <p><em>Peter Atherton, Artistic Director</em><br /><em>Carol Neblett &amp; David Alt, Associate Director</em>s<br /><em>Daniel Alfred Wachs, Conductor</em></p> <p><em>The Marriage of Figaro</em> is an opera buffa (comic opera) in four acts composed in 1786 by Wolfgang Amadeus Mozart, with an Italian libretto written by Lorenzo Da Ponte, based on a stage comedy by Pierre Beaumarchais. Sung in Italian with dialogue in English.</p> <p><span style=\"text-decoration: underline;\">About Peter Atherton:</span><br /><span class=\"replace\"><span class=\"replace\">Bass-baritone Peter Atherton has had the joy of performing over forty-five roles ranging from Seneca in The Coronation of Poppea to Frederick in A Little Night Music.&nbsp; His operatic credits include performances with the Los Angeles Opera, Seattle Opera, Baltimore Opera, Lyric Opera Cleveland, Wolf Trap Opera, Virginia Opera, San Francisco Opera Touring Division, Opera Atelier, Cairo Opera and the Operafestival of Rome and Verona.&nbsp; He has performed with such conductors as Leonard Bernstein, Pierre Boulez, Lucas Foss, James Conlon, Kurt Herbert Adler, David Effron and Myung-Whun Chung.</span>&nbsp; <a href=\"http://www.chapman.edu/our-faculty/peter-atherton\" target=\"_blank\">Learn more...</a></span></p> <p><span style=\"text-decoration: underline;\">About Carol Neblett:</span><br /><span class=\"replace\"><span class=\"replace\">One of America's greatest and most acclaimed sopranos, Carol Neblett's career has spanned over forty years, performing opera's most coveted roles in the world's greatest opera houses, including the Metropolitan Opera, La Scala, Covent Garden, San Francisco Opera, Salzburg, Hamburg and Chicago Lyric Opera.&nbsp;</span> <a href=\"http://www.chapman.edu/our-faculty/carol-neblett\" target=\"_blank\">Learn more...</a></span></p> <p><span style=\"text-decoration: underline;\">About David Alt:</span><br /><span class=\"replace\">David Alt moved to Southern California after teaching for 21 years as Professor of Voice, Chairman of the Department of Vocal Performance and Program Director for Musical Theatre in the Frost School of Music at the University of Miami.&nbsp; He received his DMA degree from the University of Iowa and a Certificate from the Conservatoire de Musique, Geneve, Switzerland.&nbsp; <a href=\"http://www.chapman.edu/our-faculty/david-alt\" target=\"_blank\">Learn more...</a><br /></span></p> <p><span style=\"text-decoration: underline;\">About Daniel Alfred Wachs:</span><br /><span class=\"replace\"><span class=\"replace\">Conductor Daniel Alfred Wachs emerged on the international scene following his debut with the Mozarteum Orchestra of Salzburg, leading a world premi&egrave;re by Toshio Hosokawa at the Grosses Festspielhaus. The Austrian press praised<em> &ldquo;Engaging, rhythmically inspired, precise in its execution, the &ldquo;Mambo&rdquo; was equal to a performance by Gustavo Dudamel and the Sim&oacute;n Bol&iacute;var Youth Orchestra!&rdquo; </em><a href=\"http://www.chapman.edu/our-faculty/daniel-wachs\" target=\"_blank\">Learn more...</a></span>&nbsp; </span></p>",
+		"Venue": "Chapman Auditorium, Memorial Hall",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=649",
+		"Quantity": "615",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 130
+			}
+		]
+	},
+	{
+		"Event ID": "651",
+		"Event Title": "Opera Chapman - Marriage of Figaro (SAT)",
+		"Event Date/Time": "Saturday, April 26, 2014 7:30 PM",
+		"Description": "<p><strong><span style=\"font-size: 14px;\">Opera Chapman presents<br /><em>Le Nozze di Figaro</em> (The Marriage of Figaro)<br /></span><span style=\"font-size: 14px;\">Saturday, April 26, 2014</span></strong><strong><em><br /></em></strong><strong>In collaboration with The Chapman Orchestra</strong></p> <p><em>Peter Atherton, Artistic Director</em><br /><em>Carol Neblett &amp; David Alt, Associate Director</em>s<br /><em>Daniel Alfred Wachs, Conductor</em></p> <p><em>The Marriage of Figaro</em> is an opera buffa (comic opera) in four acts composed in 1786 by Wolfgang Amadeus Mozart, with an Italian libretto written by Lorenzo Da Ponte, based on a stage comedy by Pierre Beaumarchais. Sung in Italian with dialogue in English.</p> <p><span style=\"text-decoration: underline;\">About Peter Atherton:</span><br /><span class=\"replace\"><span class=\"replace\">Bass-baritone Peter Atherton has had the joy of performing over forty-five roles ranging from Seneca in The Coronation of Poppea to Frederick in A Little Night Music.&nbsp; His operatic credits include performances with the Los Angeles Opera, Seattle Opera, Baltimore Opera, Lyric Opera Cleveland, Wolf Trap Opera, Virginia Opera, San Francisco Opera Touring Division, Opera Atelier, Cairo Opera and the Operafestival of Rome and Verona.&nbsp; He has performed with such conductors as Leonard Bernstein, Pierre Boulez, Lucas Foss, James Conlon, Kurt Herbert Adler, David Effron and Myung-Whun Chung.</span>&nbsp; <a href=\"http://www.chapman.edu/our-faculty/peter-atherton\" target=\"_blank\">Learn more...</a></span></p> <p><span style=\"text-decoration: underline;\">About Carol Neblett:</span><br /><span class=\"replace\"><span class=\"replace\">One of America's greatest and most acclaimed sopranos, Carol Neblett's career has spanned over forty years, performing opera's most coveted roles in the world's greatest opera houses, including the Metropolitan Opera, La Scala, Covent Garden, San Francisco Opera, Salzburg, Hamburg and Chicago Lyric Opera.&nbsp;</span> <a href=\"http://www.chapman.edu/our-faculty/carol-neblett\" target=\"_blank\">Learn more...</a></span></p> <p><span style=\"text-decoration: underline;\">About David Alt:</span><br /><span class=\"replace\">David Alt moved to Southern California after teaching for 21 years as Professor of Voice, Chairman of the Department of Vocal Performance and Program Director for Musical Theatre in the Frost School of Music at the University of Miami.&nbsp; He received his DMA degree from the University of Iowa and a Certificate from the Conservatoire de Musique, Geneve, Switzerland.&nbsp; <a href=\"http://www.chapman.edu/our-faculty/david-alt\" target=\"_blank\">Learn more...</a><br /></span></p> <p><span style=\"text-decoration: underline;\">About Daniel Alfred Wachs:</span><br /><span class=\"replace\"><span class=\"replace\">Conductor Daniel Alfred Wachs emerged on the international scene following his debut with the Mozarteum Orchestra of Salzburg, leading a world premi&egrave;re by Toshio Hosokawa at the Grosses Festspielhaus. The Austrian press praised<em> &ldquo;Engaging, rhythmically inspired, precise in its execution, the &ldquo;Mambo&rdquo; was equal to a performance by Gustavo Dudamel and the Sim&oacute;n Bol&iacute;var Youth Orchestra!&rdquo; </em><a href=\"http://www.chapman.edu/our-faculty/daniel-wachs\" target=\"_blank\">Learn more...</a></span>&nbsp; </span></p>",
+		"Venue": "Chapman Auditorium, Memorial Hall",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=651",
+		"Quantity": "615",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 291
+			}
+		]
+	},
+	{
+		"Event ID": "652",
+		"Event Title": "Opera Chapman - Marriage of Figaro (SUN)",
+		"Event Date/Time": "Sunday, April 27, 2014 3:00 PM",
+		"Description": "<p><strong><span style=\"font-size: 14px;\">Opera Chapman presents<br /><em>Le Nozze di Figaro</em> (The Marriage of Figaro)<br /></span><span style=\"font-size: 14px;\">Sunday, April 27, 2014</span></strong><strong><em><br /></em></strong><strong>In collaboration with The Chapman Orchestra</strong></p> <p><em>Peter Atherton, Artistic Director</em><br /><em>Carol Neblett &amp; David Alt, Associate Director</em>s<br /><em>Daniel Alfred Wachs, Conductor</em></p> <p><em>The Marriage of Figaro</em> is an opera buffa (comic opera) in four acts composed in 1786 by Wolfgang Amadeus Mozart, with an Italian libretto written by Lorenzo Da Ponte, based on a stage comedy by Pierre Beaumarchais. Sung in Italian with dialogue in English.</p> <p><span style=\"text-decoration: underline;\">About Peter Atherton:</span><br /><span class=\"replace\"><span class=\"replace\">Bass-baritone Peter Atherton has had the joy of performing over forty-five roles ranging from Seneca in The Coronation of Poppea to Frederick in A Little Night Music.&nbsp; His operatic credits include performances with the Los Angeles Opera, Seattle Opera, Baltimore Opera, Lyric Opera Cleveland, Wolf Trap Opera, Virginia Opera, San Francisco Opera Touring Division, Opera Atelier, Cairo Opera and the Operafestival of Rome and Verona.&nbsp; He has performed with such conductors as Leonard Bernstein, Pierre Boulez, Lucas Foss, James Conlon, Kurt Herbert Adler, David Effron and Myung-Whun Chung.</span>&nbsp; <a href=\"http://www.chapman.edu/our-faculty/peter-atherton\" target=\"_blank\">Learn more...</a></span></p> <p><span style=\"text-decoration: underline;\">About Carol Neblett:</span><br /><span class=\"replace\"><span class=\"replace\">One of America's greatest and most acclaimed sopranos, Carol Neblett's career has spanned over forty years, performing opera's most coveted roles in the world's greatest opera houses, including the Metropolitan Opera, La Scala, Covent Garden, San Francisco Opera, Salzburg, Hamburg and Chicago Lyric Opera.&nbsp;</span> <a href=\"http://www.chapman.edu/our-faculty/carol-neblett\" target=\"_blank\">Learn more...</a></span></p> <p><span style=\"text-decoration: underline;\">About David Alt:</span><br /><span class=\"replace\">David Alt moved to Southern California after teaching for 21 years as Professor of Voice, Chairman of the Department of Vocal Performance and Program Director for Musical Theatre in the Frost School of Music at the University of Miami.&nbsp; He received his DMA degree from the University of Iowa and a Certificate from the Conservatoire de Musique, Geneve, Switzerland.&nbsp; <a href=\"http://www.chapman.edu/our-faculty/david-alt\" target=\"_blank\">Learn more...</a><br /></span></p> <p><span style=\"text-decoration: underline;\">About Daniel Alfred Wachs:</span><br /><span class=\"replace\"><span class=\"replace\">Conductor Daniel Alfred Wachs emerged on the international scene following his debut with the Mozarteum Orchestra of Salzburg, leading a world premi&egrave;re by Toshio Hosokawa at the Grosses Festspielhaus. The Austrian press praised<em> &ldquo;Engaging, rhythmically inspired, precise in its execution, the &ldquo;Mambo&rdquo; was equal to a performance by Gustavo Dudamel and the Sim&oacute;n Bol&iacute;var Youth Orchestra!&rdquo; </em><a href=\"http://www.chapman.edu/our-faculty/daniel-wachs\" target=\"_blank\">Learn more...</a></span>&nbsp; </span></p>",
+		"Venue": "Chapman Auditorium, Memorial Hall",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=652",
+		"Quantity": "615",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 264
+			}
+		]
+	},
+	{
+		"Event ID": "653",
+		"Event Title": "Working with Eating Disorders",
+		"Event Date/Time": "Friday, February 7, 2014 9:00 AM",
+		"Description": "<p>Chapman University Frances Smith Center Presents:</p> <p>Maggie Baumann, MA, LMFT, CEDS - Working with Eating Disorders</p>",
+		"Venue": "Chapman University Argyros Forum Room 209A",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=653",
+		"Quantity": "60",
+		"Tickets": [
+			{
+				"Ticket Name": "General Public",
+				"Price": "50.00",
+				"Remaining": 23
+			},
+			{
+				"Ticket Name": "Chapman MFT Students and Chapman Employees",
+				"Price": "0.00",
+				"Remaining": 23
+			},
+			{
+				"Ticket Name": "Chapman MFT Alumni",
+				"Price": "25.00",
+				"Remaining": 23
+			}
+		]
+	},
+	{
+		"Event ID": "654",
+		"Event Title": "Working with Transgender Clients",
+		"Event Date/Time": "Friday, March 7, 2014 1:00 PM",
+		"Description": "<p><span style=\"font-size: 14px;\">Chapman University Frances Smith Center Presents:</span></p> <p><span style=\"font-size: 14px;\">Lisa Maurel, MA, LMFT</span></p> <p><span style=\"font-size: 14px;\">Essential Components of Affirmative Therapy with Trans* Clients</span></p> <p><span style=\"font-size: 14px;\">This advanced course will address the essential aspects of affirmative therapy with trans*r and gender diverse clients and provide a multi-cultural approach to providing affirmative psychotherapy that is multi-culturally informed and client centered.&nbsp; Ethical considerations in the delivery of therapeutic services will be addressed.<br /></span></p> <p>&nbsp;</p>",
+		"Venue": "Chapman University Crean Hall Room 149",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=654",
+		"Quantity": "60",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman MFT Students and Chapman Employees",
+				"Price": "0.00",
+				"Remaining": 16
+			},
+			{
+				"Ticket Name": "Chapman MFT Alumni",
+				"Price": "10.00",
+				"Remaining": 16
+			},
+			{
+				"Ticket Name": "General Public",
+				"Price": "20.00",
+				"Remaining": 16
+			}
+		]
+	},
+	{
+		"Event ID": "655",
+		"Event Title": "Medical Family Therapy",
+		"Event Date/Time": "Friday, April 25, 2014 1:00 PM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Chapman University Frances Smith Center Presents:</span></p> <p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Elizabeth D'Arrigo-Patrick, PhD(c), MFTI</span></p> <p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Medical Family Therapy</span></p> <p>&nbsp;</p> <p><span style=\"font-size: 14px;\">Medical Family Therapy is a growing area of practice for MFTs and will continue to expand as our healthcare system changes.&nbsp; This presentation will be an introduction to Medical Family Therapy and will include current research, trends, job opportunities and opportunities for further training.</span></p>",
+		"Venue": "Chapman University Crean Hall Room 149",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=655",
+		"Quantity": "60",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman MFT Students and Chapman Employees",
+				"Price": "0.00",
+				"Remaining": 44
+			},
+			{
+				"Ticket Name": "Chapman MFT Alumni",
+				"Price": "15.00",
+				"Remaining": 44
+			},
+			{
+				"Ticket Name": "General Public",
+				"Price": "25.00",
+				"Remaining": 44
+			}
+		]
+	},
+	{
+		"Event ID": "656",
+		"Event Title": "Women's Basketball - Chapman vs Biola",
+		"Event Date/Time": "Tuesday, January 7, 2014 7:00 PM",
+		"Description": "",
+		"Venue": "Harold Hutton Sports Center",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=656",
+		"Quantity": "2000",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "10.00",
+				"Remaining": 1840
+			},
+			{
+				"Ticket Name": "Visiting Student w/ ID",
+				"Price": "5.00",
+				"Remaining": 1840
+			},
+			{
+				"Ticket Name": "Children under 12",
+				"Price": "0.00",
+				"Remaining": 1840
+			},
+			{
+				"Ticket Name": "Chapman Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1840
+			},
+			{
+				"Ticket Name": "SCIAC Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1840
+			},
+			{
+				"Ticket Name": "Comps",
+				"Price": "0.00",
+				"Remaining": 1840
+			}
+		]
+	},
+	{
+		"Event ID": "657",
+		"Event Title": "Men's Basketball - Chapman vs. La Verne",
+		"Event Date/Time": "Wednesday, January 15, 2014 7:30 PM",
+		"Description": "",
+		"Venue": "Harold Huttons Sports Center",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=657",
+		"Quantity": "2000",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "10.00",
+				"Remaining": 1964
+			},
+			{
+				"Ticket Name": "Children under 12",
+				"Price": "5.00",
+				"Remaining": 1964
+			},
+			{
+				"Ticket Name": "Visiting Student with ID",
+				"Price": "5.00",
+				"Remaining": 1964
+			},
+			{
+				"Ticket Name": "Chapman Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1964
+			},
+			{
+				"Ticket Name": "SCIAC Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1964
+			},
+			{
+				"Ticket Name": "Comps",
+				"Price": "0.00",
+				"Remaining": 1964
+			}
+		]
+	},
+	{
+		"Event ID": "658",
+		"Event Title": "Women's Basketball - Chapman vs La Verne",
+		"Event Date/Time": "Thursday, January 16, 2014 7:30 PM",
+		"Description": "",
+		"Venue": "Harold Hutton Sports Center",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=658",
+		"Quantity": "2000",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "10.00",
+				"Remaining": 1854
+			},
+			{
+				"Ticket Name": "Visiting Student w/ ID",
+				"Price": "5.00",
+				"Remaining": 1854
+			},
+			{
+				"Ticket Name": "Children under 12",
+				"Price": "5.00",
+				"Remaining": 1854
+			},
+			{
+				"Ticket Name": "Chapman Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1854
+			},
+			{
+				"Ticket Name": "SCIAC Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1854
+			},
+			{
+				"Ticket Name": "Comps",
+				"Price": "0.00",
+				"Remaining": 1854
+			}
+		]
+	},
+	{
+		"Event ID": "659",
+		"Event Title": "Men's Basketball - Chapman vs. Occidental",
+		"Event Date/Time": "Saturday, January 18, 2014 5:00 PM",
+		"Description": "",
+		"Venue": "Harold Huttons Sports Center",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=659",
+		"Quantity": "2000",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "10.00",
+				"Remaining": 1764
+			},
+			{
+				"Ticket Name": "Children under 12",
+				"Price": "5.00",
+				"Remaining": 1764
+			},
+			{
+				"Ticket Name": "Visiting Student with ID",
+				"Price": "5.00",
+				"Remaining": 1764
+			},
+			{
+				"Ticket Name": "Chapman Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1764
+			},
+			{
+				"Ticket Name": "SCIAC Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1764
+			},
+			{
+				"Ticket Name": "Comps",
+				"Price": "0.00",
+				"Remaining": 1764
+			}
+		]
+	},
+	{
+		"Event ID": "660",
+		"Event Title": "Women's Basketball - Chapman vs Occidental",
+		"Event Date/Time": "Saturday, January 18, 2014 7:00 PM",
+		"Description": "",
+		"Venue": "Harold Hutton Sports Center",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=660",
+		"Quantity": "2000",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "10.00",
+				"Remaining": 1813
+			},
+			{
+				"Ticket Name": "Visiting Student w/ ID",
+				"Price": "5.00",
+				"Remaining": 1813
+			},
+			{
+				"Ticket Name": "Children under 12",
+				"Price": "5.00",
+				"Remaining": 1813
+			},
+			{
+				"Ticket Name": "Chapman Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1813
+			},
+			{
+				"Ticket Name": "SCIAC Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1813
+			},
+			{
+				"Ticket Name": "Comps",
+				"Price": "0.00",
+				"Remaining": 1813
+			}
+		]
+	},
+	{
+		"Event ID": "661",
+		"Event Title": "Men's Basketball - Chapman vs. Claremont",
+		"Event Date/Time": "Wednesday, January 29, 2014 7:30 PM",
+		"Description": "",
+		"Venue": "Harold Huttons Sports Center",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=661",
+		"Quantity": "2000",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "10.00",
+				"Remaining": 1791
+			},
+			{
+				"Ticket Name": "Children under 12",
+				"Price": "5.00",
+				"Remaining": 1791
+			},
+			{
+				"Ticket Name": "Visiting Student with ID",
+				"Price": "5.00",
+				"Remaining": 1791
+			},
+			{
+				"Ticket Name": "Chapman Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1791
+			},
+			{
+				"Ticket Name": "SCIAC Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1791
+			},
+			{
+				"Ticket Name": "Comps",
+				"Price": "0.00",
+				"Remaining": 1791
+			}
+		]
+	},
+	{
+		"Event ID": "665",
+		"Event Title": "Men's Basketball - Chapman vs. Pomona Pitzer",
+		"Event Date/Time": "Saturday, February 15, 2014 5:00 PM",
+		"Description": "",
+		"Venue": "Harold Huttons Sports Center",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=665",
+		"Quantity": "2000",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "10.00",
+				"Remaining": 1629
+			},
+			{
+				"Ticket Name": "Children under 12",
+				"Price": "5.00",
+				"Remaining": 1629
+			},
+			{
+				"Ticket Name": "Visiting Student with ID",
+				"Price": "5.00",
+				"Remaining": 1629
+			},
+			{
+				"Ticket Name": "Chapman Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1629
+			},
+			{
+				"Ticket Name": "SCIAC Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1629
+			},
+			{
+				"Ticket Name": "Comps",
+				"Price": "0.00",
+				"Remaining": 1629
+			}
+		]
+	},
+	{
+		"Event ID": "666",
+		"Event Title": "Women's Basketball - Chapman vs Pomona Pitzer",
+		"Event Date/Time": "Saturday, February 15, 2014 7:00 PM",
+		"Description": "",
+		"Venue": "Harold Hutton Sports Center",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=666",
+		"Quantity": "2000",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "10.00",
+				"Remaining": 1815
+			},
+			{
+				"Ticket Name": "Visiting Student w/ ID",
+				"Price": "5.00",
+				"Remaining": 1815
+			},
+			{
+				"Ticket Name": "Children under 12",
+				"Price": "5.00",
+				"Remaining": 1815
+			},
+			{
+				"Ticket Name": "Chapman Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1815
+			},
+			{
+				"Ticket Name": "SCIAC Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1815
+			},
+			{
+				"Ticket Name": "Comps",
+				"Price": "0.00",
+				"Remaining": 1815
+			}
+		]
+	},
+	{
+		"Event ID": "667",
+		"Event Title": "Men's Basketball - Chapman vs. Cal-Tech",
+		"Event Date/Time": "Wednesday, February 19, 2014 7:30 PM",
+		"Description": "",
+		"Venue": "Harold Huttons Sports Center",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=667",
+		"Quantity": "2000",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "10.00",
+				"Remaining": 1772
+			},
+			{
+				"Ticket Name": "Children under 12",
+				"Price": "5.00",
+				"Remaining": 1772
+			},
+			{
+				"Ticket Name": "Visiting Student with ID",
+				"Price": "5.00",
+				"Remaining": 1772
+			},
+			{
+				"Ticket Name": "Chapman Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1772
+			},
+			{
+				"Ticket Name": "SCIAC Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1772
+			},
+			{
+				"Ticket Name": "Comps",
+				"Price": "0.00",
+				"Remaining": 1772
+			}
+		]
+	},
+	{
+		"Event ID": "668",
+		"Event Title": "Women's Basketball - Chapman vs Cal-tech",
+		"Event Date/Time": "Thursday, February 20, 2014 7:30 PM",
+		"Description": "",
+		"Venue": "Harold Hutton Sports Center",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=668",
+		"Quantity": "2000",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "10.00",
+				"Remaining": 1833
+			},
+			{
+				"Ticket Name": "Visiting Student w/ ID",
+				"Price": "5.00",
+				"Remaining": 1833
+			},
+			{
+				"Ticket Name": "Children under 12",
+				"Price": "5.00",
+				"Remaining": 1833
+			},
+			{
+				"Ticket Name": "Chapman Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1833
+			},
+			{
+				"Ticket Name": "SCIAC Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 1833
+			},
+			{
+				"Ticket Name": "Comps",
+				"Price": "0.00",
+				"Remaining": 1833
+			}
+		]
+	},
+	{
+		"Event ID": "669",
+		"Event Title": "UPB Goes to the LA Zoo!",
+		"Event Date/Time": "Saturday, February 8, 2014 10:15 AM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">What&rsquo;s better than kicking off the new semester with Chapman UPB on our first weekend adventure? Find out what happens when UPB journeys to the Los Angeles Zoo to mingle with wild animals from across the globe including Indian Rhinos! Want to learn more about what the LA Zoo has to offer? Check it out here: http://www.lazoo.org/animals/.</span></p> <p style=\"text-align: center;\"><span style=\"font-family: 'Times New Roman', serif; font-size: medium;\">FREE bus transportation is included! <br /></span></p> <p style=\"text-align: center;\"><span style=\"font-family: 'Times New Roman', serif; font-size: medium;\">Spaces are limited! Registration will be open until at 5:00pm on February 7th or until spaces are filled.</span></p> <p style=\"text-align: center;\"><span style=\"font-family: 'Times New Roman', serif; font-size: medium;\"><br /><em>UPB strives to make all events open and accessible to everyone, please contact chapmanupb@gmail.com for accommodations and questions.</em><br /><br /></span></p>",
+		"Venue": "Los Angeles Zoo",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=669",
+		"Quantity": "48",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "10.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "671",
+		"Event Title": "USDA Chapman Irradiation Workshop 2014",
+		"Event Date/Time": "Tuesday, March 25, 2014 12:00 PM",
+		"Description": "<p>We are pleased to announce the fourth annual &ldquo;Opportunities in Phytosanitary Irradiation for Fresh Produce Workshop&rdquo;, March 25-26, 2014 at Chapman University in Orange, CA.&nbsp;</p>",
+		"Venue": "Pralle Lecture Hall, BK 104 ",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=671",
+		"Quantity": "100",
+		"Tickets": [
+			{
+				"Ticket Name": "USDA Chapman Irradiation Workshop 2014",
+				"Price": "0.00",
+				"Remaining": 25
+			}
+		]
+	},
+	{
+		"Event ID": "672",
+		"Event Title": "Guest Artist in Recital - Nadia Shpachenko, piano",
+		"Event Date/Time": "Wednesday, April 9, 2014 7:30 PM",
+		"Description": "<p><strong><span style=\"font-size: 14px;\">Guest Artist in Recital - Nadia Shpachenko, piano<br /></span></strong></p> <p><span style=\"font-size: 14px;\"><span style=\"font-size: 12px;\">\"Music for a New B'ak'tun,\" a program of newly written works for solo piano (with toy piano, percussion and electronics) by American composers Tom Flaherty, James Matheson, Adam Schoenberg and Peter Yates.</span></span><strong><span style=\"font-size: 14px;\"><br /></span></strong></p> <p><span style=\"font-size: 14px;\"><span style=\"font-size: 12px;\"><span style=\"text-decoration: underline;\">About Nadia Shpachenko:</span><br />Pianist Nadia Shpachenko-Gottesman has performed extensively in solo recitals and with orchestras in major venues across North America, Europe and Asia. Described by critics as a \"truly inspiring and brilliant pianist...spellbinding in sensitivity and mastery of technique,\" she recently toured Mexico with Orquesta de Baja California, performed with the Kharkov Philharmonic, the Ukrainian National Symphony and the Ukrainian National Radio Symphony Orchestras in Ukraine and the San Bernardino Symphony Orchestra in California. An enthusiastic promoter of contemporary music, she has given world and national premieres of dozens of piano, string piano and toy piano works by composers such as Leon Kirchner, George Crumb, Henry Cowell, Elliott Carter, Iannis Xenakis, Peter Yates, Tom Flaherty, Dave Kopplin, Yury Ishchenko and others.&nbsp; <a href=\"http://www.ullanta.com/personal/nadia/\" target=\"_blank\">Learn more...</a><br /></span></span></p>",
+		"Venue": "Salmon Recital Hall, Bertea Hall 100",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=672",
+		"Quantity": "125",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "10.00",
+				"Remaining": 97
+			},
+			{
+				"Ticket Name": "Senior Citizens (55+)",
+				"Price": "5.00",
+				"Remaining": 97
+			},
+			{
+				"Ticket Name": "Non-Chapman Student",
+				"Price": "5.00",
+				"Remaining": 97
+			},
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "0.00",
+				"Remaining": 97
+			},
+			{
+				"Ticket Name": "Music Student",
+				"Price": "0.00",
+				"Remaining": 97
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 97
+			},
+			{
+				"Ticket Name": "CoPA Faculty",
+				"Price": "0.00",
+				"Remaining": 97
+			},
+			{
+				"Ticket Name": "Chapman Alumni",
+				"Price": "5.00",
+				"Remaining": 97
+			},
+			{
+				"Ticket Name": "Chapman Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 97
+			}
+		]
+	},
+	{
+		"Event ID": "673",
+		"Event Title": "How To Build Your Full And Rewarding Private Pract",
+		"Event Date/Time": "Friday, May 9, 2014 3:00 PM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Chapman University The Frances Smith Center Presents:</span></p> <p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Casey Truffo, LMFT, renowned motivational speaker</span></p> <p style=\"text-align: center;\"><span style=\"font-size: 16px;\">How To Build Your Full And Rewarding Private Practice</span></p>",
+		"Venue": "Chapman University, Argyros Forum, Room 209A",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=673",
+		"Quantity": "60",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman MFT Alumni",
+				"Price": "10.00",
+				"Remaining": 20
+			},
+			{
+				"Ticket Name": "Chapman MFT Student",
+				"Price": "0.00",
+				"Remaining": 20
+			},
+			{
+				"Ticket Name": "MFT Faculty ",
+				"Price": "0.00",
+				"Remaining": 20
+			}
+		]
+	},
+	{
+		"Event ID": "674",
+		"Event Title": "Vagina Monologues- Friday Show",
+		"Event Date/Time": "Friday, February 21, 2014 8:00 PM",
+		"Description": "<p class=\"MsoNormal\"><em>The Vagina Monologues</em> is <span style=\"background-position: initial initial; background-repeat: initial initial;\">an episodic play written by<span class=\"apple-converted-space\">&nbsp;</span></span><span style=\"background-position: initial initial; background-repeat: initial initial;\">Eve Ensler</span> <span style=\"background-position: initial initial; background-repeat: initial initial;\">made up of a varying number of monologues focused on female empowerment. This year's production of the show will run from Friday, February 21st through Sunday, February 23rd. This production is sponsored by the Chapman University Office of Housing &amp; Residence Life and benefits&nbsp;</span>The Shodhini Institute.</p>",
+		"Venue": "Irvine Lecture Hall",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=674",
+		"Quantity": "180",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission Pre-Sale",
+				"Price": "7.00",
+				"Remaining": 15
+			},
+			{
+				"Ticket Name": "General Admission + T-shirt",
+				"Price": "25.00",
+				"Remaining": 15
+			},
+			{
+				"Ticket Name": "General Admission Day-of",
+				"Price": "10.00",
+				"Remaining": 15
+			},
+			{
+				"Ticket Name": "Comps",
+				"Price": "0.00",
+				"Remaining": 15
+			}
+		]
+	},
+	{
+		"Event ID": "677",
+		"Event Title": "Vagina Monologues- Saturday Show",
+		"Event Date/Time": "Saturday, February 22, 2014 8:00 PM",
+		"Description": "<p class=\"MsoNormal\"><em>The Vagina Monologues</em> is <span style=\"background-position: initial initial; background-repeat: initial initial;\">an episodic play written by<span class=\"apple-converted-space\">&nbsp;</span></span><span style=\"background-position: initial initial; background-repeat: initial initial;\">Eve Ensler</span> <span style=\"background-position: initial initial; background-repeat: initial initial;\">made up of a varying number of monologues focused on female empowerment. This year's production of the show will run from Friday, February 21st through Sunday, February 23rd. This production is sponsored by the Chapman University Office of Housing &amp; Residence Life and benefits The Shodhini Institute.</span></p>",
+		"Venue": "Irvine Lecture Hall",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=677",
+		"Quantity": "180",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission Pre-Sale",
+				"Price": "7.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "General Admission + T-shirt",
+				"Price": "25.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "General Admission Day-of",
+				"Price": "10.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Comps",
+				"Price": "0.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "678",
+		"Event Title": "Vagina Monologues- Sunday Show",
+		"Event Date/Time": "Sunday, February 23, 2014 12:00 PM",
+		"Description": "<p class=\"MsoNormal\"><em>The Vagina Monologues</em> is <span style=\"background-position: initial initial; background-repeat: initial initial;\">an episodic play written by<span class=\"apple-converted-space\">&nbsp;</span></span><span style=\"background-position: initial initial; background-repeat: initial initial;\">Eve Ensler</span> <span style=\"background-position: initial initial; background-repeat: initial initial;\">made up of a varying number of monologues focused on female empowerment. This year's production of the show will run from Friday, February 21st through Sunday, February 23rd. This production is sponsored by the Chapman University Office of Housing &amp; Residence Life&nbsp;</span><span>and benefits&nbsp;</span>The Shodhini Institute.</p>",
+		"Venue": "Irvine Lecture Hall",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=678",
+		"Quantity": "180",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission Pre-Sale",
+				"Price": "7.00",
+				"Remaining": 4
+			},
+			{
+				"Ticket Name": "General Admission + T-shirt",
+				"Price": "25.00",
+				"Remaining": 4
+			},
+			{
+				"Ticket Name": "General Admission Day-of",
+				"Price": "10.00",
+				"Remaining": 4
+			},
+			{
+				"Ticket Name": "Comps",
+				"Price": "0.00",
+				"Remaining": 4
+			}
+		]
+	},
+	{
+		"Event ID": "681",
+		"Event Title": "Spring Dance Concert 5/7/14",
+		"Event Date/Time": "Wednesday, May 7, 2014 7:30 PM",
+		"Description": "<div class=\"content editableContent\"> <p>May 7-10<br /><strong>Spring Dance Concert<br /></strong><em>Directed by Nancy Dickson-Lewis and Jennifer Backhaus<br /></em><br />Student choreographers present exciting new works in varied styles and themes.<br />Waltmar Theatre<br />7:30 p.m., additional performance May 10 at 2 p.m.<br />$20 general admission; $15 senior citizens, students and alumni</p> </div>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=681",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 83
+			}
+		]
+	},
+	{
+		"Event ID": "682",
+		"Event Title": "Spring Dance Concert 5/8/14",
+		"Event Date/Time": "Thursday, May 8, 2014 7:30 PM",
+		"Description": "<div class=\"content editableContent\"> <p>May 7-10<br /><strong>Spring Dance Concert<br /></strong><em>Directed by Nancy Dickson-Lewis and Jennifer Backhaus<br /></em><br />Student choreographers present exciting new works in varied styles and themes.<br />Waltmar Theatre<br />7:30 p.m., additional performance May 10 at 2 p.m.<br />$20 general admission; $15 senior citizens, students and alumni</p> </div>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=682",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 95
+			}
+		]
+	},
+	{
+		"Event ID": "683",
+		"Event Title": "Spring Dance Concert 5/9/14",
+		"Event Date/Time": "Friday, May 9, 2014 7:30 PM",
+		"Description": "<div class=\"content editableContent\"> <p>May 7-10<br /><strong>Spring Dance Concert<br /></strong><em>Directed by Nancy Dickson-Lewis and Jennifer Backhaus<br /></em><br />Student choreographers present exciting new works in varied styles and themes.<br />Waltmar Theatre<br />7:30 p.m., additional performance May 10 at 2 p.m.<br />$20 general admission; $15 senior citizens, students and alumni</p> </div>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=683",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 37
+			}
+		]
+	},
+	{
+		"Event ID": "684",
+		"Event Title": "Spring Dance Concert 5/10/14 7:30 PM",
+		"Event Date/Time": "Saturday, May 10, 2014 7:30 PM",
+		"Description": "<div class=\"content editableContent\"> <p>May 7-10<br /><strong>Spring Dance Concert<br /></strong><em>Directed by Nancy Dickson-Lewis and Jennifer Backhaus<br /></em><br />Student choreographers present exciting new works in varied styles and themes.<br />Waltmar Theatre<br />7:30 p.m., additional performance May 10 at 2 p.m.<br />$20 general admission; $15 senior citizens, students and alumni</p> </div>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=684",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 49
+			}
+		]
+	},
+	{
+		"Event ID": "685",
+		"Event Title": "Spring Dance Concert 5/10/14 2 pm",
+		"Event Date/Time": "Saturday, May 10, 2014 2:00 PM",
+		"Description": "<div class=\"content editableContent\"> <p>May 7-10<br /><strong>Spring Dance Concert<br /></strong><em>Directed by Nancy Dickson-Lewis and Jennifer Backhaus<br /></em><br />Student choreographers present exciting new works in varied styles and themes.<br />Waltmar Theatre<br />7:30 p.m., additional performance May 10 at 2 p.m.<br />$20 general admission; $15 senior citizens, students and alumni</p> </div>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=685",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 113
+			}
+		]
+	},
+	{
+		"Event ID": "686",
+		"Event Title": "Alumni Pre-Show Mixer & Greek Skit Night 2014",
+		"Event Date/Time": "Friday, April 4, 2014 5:30 PM",
+		"Description": "<p>Whether you were the star of the show or a member of the choir, no one can forget their Skit Night performance on the main stage of Memorial Hall.&nbsp; What chapter will take home the Greek Skit Night Prize in 2014?&hellip;will it be yours?</p> <p>Come home to your alma mater on Friday, April 4, 2014 to support your&nbsp; chapter affiliation, reconnect with friends, and find out who will create the biggest and best performance for the year.&nbsp; Catch up and network with fellow Alumni during the Alumni Pre-Show Mixer beginning at 5:30 p.m. in Argyros Forum Room 209 A, B, and C. Enjoy light appetizers, beverages, including beer and wine, skit predictions, fun photos, and fond memories&nbsp;in a relaxed setting surrounded by your Greek brothers and sisters from days gone by.</p> <p>At 6:30 p.m. , you can choose to make your way to the live performance at Memorial Hall and sit in a reserved Alumni&nbsp;seating section OR you can stay and&nbsp;continue the party--while watching a live&nbsp;webcast of the performances alongside friends.</p> <p>Either way, the night is yours to celebrate and reminisce about your great times in the Greek community here at Chapman University!</p>",
+		"Venue": "Argyros Forum, ROOM  209 A,B,C",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=686",
+		"Quantity": "132",
+		"Tickets": [
+			{
+				"Ticket Name": "Pre-Mixer Reception AND Greek Skit Show Ticket",
+				"Price": "20.00",
+				"Remaining": 1
+			},
+			{
+				"Ticket Name": "Greek Optout $15",
+				"Price": "15.00",
+				"Remaining": 1
+			}
+		]
+	},
+	{
+		"Event ID": "687",
+		"Event Title": "50 Year Club Luncheon 2014",
+		"Event Date/Time": "Friday, May 23, 2014 11:30 AM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: 16px; font-family: 'arial black', 'avant garde';\"><strong>50 Year Club Luncheon</strong></span></p> <p>Join us for our annual Chapman University 50 Year Club Luncheon, honoring esteemed Chapman&nbsp;alumni 50 years (and beyond) after their graduation. Special highlights of this event include special guest President Jim Doti, induction of the Class of 1964, and a&nbsp;delicious dessert buffet. Please be sure to invite members of your family who also attended Chapman University to celebrate another milestone year with you!</p> <p class=\"MsoNormal\"><strong>10:30 a.m. Memorial Service with Rev. Nancy Brink and Dr. Gail Stearns<br /></strong><em>Yoder Sanctuary, Wallace All Faiths Chapel, Fish Interfaith Center</em></p> <p class=\"MsoNormal\"><strong>11:30 a.m., 50 Year Club Luncheon and Induction of the Class of 1964 with President Doti<br /></strong>Argyros Forum, Room 209, Chapman University</p> <p class=\"MsoNormal\">(PLEASE NOTE THE LOCATION CHANGE ABOVE)</p> <p class=\"MsoNormal\"><strong>Dessert Buffet Reception to Follow</strong></p> <p class=\"MsoNormal\">If you would like to make a gift to the Alumni Scholarship Fund, please <a href=\"https://secure.touchnet.com/C20539_ustores/web/product_detail.jsp?PRODUCTID=16\" target=\"_blank\">click here</a>. Thank you.</p>",
+		"Venue": "Town and Gown Gardens, Elliott Alumni House",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=687",
+		"Quantity": "200",
+		"Tickets": [
+			{
+				"Ticket Name": "50 Year Club Luncheon - Single Ticket",
+				"Price": "35.00",
+				"Remaining": 165
+			},
+			{
+				"Ticket Name": "Additional 50 Year Club Tickets ",
+				"Price": "35.00",
+				"Remaining": 165
+			},
+			{
+				"Ticket Name": "50 Year Club Luncheon - COMP",
+				"Price": "0.00",
+				"Remaining": 165
+			}
+		]
+	},
+	{
+		"Event ID": "688",
+		"Event Title": "Class of 1964 - 50th Reunion Weekend Celebration",
+		"Event Date/Time": "Saturday, May 31, 2014 3:00 PM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: 14px;\"><strong>Class of 1964 Reunion Weekend * MAY 21-24, 2014</strong></span></p> <p>Be a part of this milestone celebration - come home to&nbsp;Chapman&nbsp;University &nbsp;and enjoy all the wonders of our campus home today, as you relish in the fond memories and dear friendships of days gone by.</p> <p>For a complete Reunion schedule, please visit our website at <a href=\"http://www.chapman.edu/1964reunion\">www.chapman.edu/1964reunion</a></p> <p>If you would like to make your 50th Reunion Gift to the Class of '64&nbsp;Memorial Scholarship, please <a href=\"https://secure.touchnet.com/C20539_ustores/web/product_detail.jsp?PRODUCTID=443\">click here.</a></p>",
+		"Venue": "Various Venues - On & Off Campus",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=688",
+		"Quantity": "250",
+		"Tickets": [
+			{
+				"Ticket Name": "Additional Class of 1964 Reunion Memory Book",
+				"Price": "50.00",
+				"Remaining": 201
+			},
+			{
+				"Ticket Name": "Class of 1964 Reunion Weekend Fee",
+				"Price": "200.00",
+				"Remaining": 201
+			},
+			{
+				"Ticket Name": "Spouse/Guest Reunion Weekend Fee",
+				"Price": "150.00",
+				"Remaining": 201
+			},
+			{
+				"Ticket Name": "50 Year Club Luncheon Only (for legacies/guests)",
+				"Price": "35.00",
+				"Remaining": 201
+			}
+		]
+	},
+	{
+		"Event ID": "689",
+		"Event Title": "UPB Crystal Cove HIke",
+		"Event Date/Time": "Saturday, February 15, 2014 11:30 AM",
+		"Description": "<p class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"color: #333333; font-family: Arial, sans-serif;\"><span style=\"font-size: 14px;\">Join Chapman University Program Board (UPB) on a hike through Moro Canyon in Laguna Beach&rsquo;s famed Crystal Cove State Park. With a beautiful hike through the wooded mountains ending at one of the last remaining natural seashore views in Orange County. You won&rsquo;t want to miss this Saturday adventure!</span></span></p> <p class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"color: #333333; font-family: Arial, sans-serif;\"><span style=\"font-size: 14px;\">To register, email chapmanupb@gmail.com before all the spots are full! This is a free trip, with transportation and lunch included!</span></span></p> <p class=\"MsoNormal\" style=\"text-align: center;\">&nbsp;</p> <p class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"color: #333333; font-family: Arial, sans-serif;\"><span style=\"font-size: 14px;\">This hike is applicable to all levels of physical skill. <em>UPB strives to make all events open and accessible to everyone. Please contact us for accommodations!</em></span></span></p>",
+		"Venue": "Crystal Cove State Park",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=689",
+		"Quantity": "48",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "0.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "692",
+		"Event Title": "10 AM - California's Gold Documentary Screening",
+		"Event Date/Time": "Saturday, March 29, 2014 10:00 AM",
+		"Description": "<p>The joy that TV legend Huell Howser shared with generations of Californians infuses a new permanent exhibit to be housed in Chapman University&rsquo;s Leatherby Libraries. &ldquo;That&rsquo;s Amazing! Thirty Years of Huell Howser and <em>California&rsquo;s Gold</em>&rdquo; opens to the public Saturday, March 29, with an open house that will include live appearances by many of the stars of Howser&rsquo;s public television program, plus screenings of a new documentary on the making of <em>California&rsquo;s Gold</em> by Chapman University film professor Jeff Swimmer. The exhibit is sponsored by the <a href=\"http://www.calif.aaa.com/home.html\" target=\"_blank\">Automobile Club of Southern California</a>, and after March 29 it will be open daily during regular library hours.</p>",
+		"Venue": "Waltmar Theater",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=692",
+		"Quantity": "240",
+		"Tickets": [
+			{
+				"Ticket Name": "General Ticket",
+				"Price": "12.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "AAA Member Ticket",
+				"Price": "10.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Day Of General Ticket",
+				"Price": "15.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Day Of AAA Member Ticket",
+				"Price": "10.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "693",
+		"Event Title": "12 PM - California's Gold Documentary Screening",
+		"Event Date/Time": "Saturday, March 29, 2014 12:00 PM",
+		"Description": "<p>The joy that TV legend Huell Howser shared with generations of Californians infuses a new permanent exhibit to be housed in Chapman University&rsquo;s Leatherby Libraries. &ldquo;That&rsquo;s Amazing! Thirty Years of Huell Howser and <em>California&rsquo;s Gold</em>&rdquo; opens to the public Saturday, March 29, with an open house that will include live appearances by many of the stars of Howser&rsquo;s public television program, plus screenings of a new documentary on the making of <em>California&rsquo;s Gold</em> by Chapman University film professor Jeff Swimmer. The exhibit is sponsored by the <a href=\"http://www.calif.aaa.com/home.html\" target=\"_blank\">Automobile Club of Southern California</a>, and after March 29 it will be open daily during regular library hours.</p>",
+		"Venue": "Waltmar Theater",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=693",
+		"Quantity": "240",
+		"Tickets": [
+			{
+				"Ticket Name": "General Ticket",
+				"Price": "12.00",
+				"Remaining": 2
+			},
+			{
+				"Ticket Name": "AAA Member Ticket",
+				"Price": "10.00",
+				"Remaining": 2
+			},
+			{
+				"Ticket Name": "Day Of General Ticket",
+				"Price": "15.00",
+				"Remaining": 2
+			},
+			{
+				"Ticket Name": "Day Of AAA Member Ticket",
+				"Price": "10.00",
+				"Remaining": 2
+			}
+		]
+	},
+	{
+		"Event ID": "694",
+		"Event Title": "2 PM - California's Gold Documentary Screening",
+		"Event Date/Time": "Saturday, March 29, 2014 2:00 PM",
+		"Description": "<p>The joy that TV legend Huell Howser shared with generations of Californians infuses a new permanent exhibit to be housed in Chapman University&rsquo;s Leatherby Libraries. &ldquo;That&rsquo;s Amazing! Thirty Years of Huell Howser and <em>California&rsquo;s Gold</em>&rdquo; opens to the public Saturday, March 29, with an open house that will include live appearances by many of the stars of Howser&rsquo;s public television program, plus screenings of a new documentary on the making of <em>California&rsquo;s Gold</em> by Chapman University film professor Jeff Swimmer. The exhibit is sponsored by the <a href=\"http://www.calif.aaa.com/home.html\" target=\"_blank\">Automobile Club of Southern California</a>, and after March 29 it will be open daily during regular library hours.</p>",
+		"Venue": "Waltmar Theater",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=694",
+		"Quantity": "240",
+		"Tickets": [
+			{
+				"Ticket Name": "General Ticket",
+				"Price": "12.00",
+				"Remaining": 2
+			},
+			{
+				"Ticket Name": "AAA Member Ticket",
+				"Price": "10.00",
+				"Remaining": 2
+			},
+			{
+				"Ticket Name": "Day Of General Ticket",
+				"Price": "15.00",
+				"Remaining": 2
+			},
+			{
+				"Ticket Name": "Day Of AAA Member Ticket",
+				"Price": "10.00",
+				"Remaining": 2
+			}
+		]
+	},
+	{
+		"Event ID": "695",
+		"Event Title": "4 PM - California's Gold Documentary Screening",
+		"Event Date/Time": "Saturday, March 29, 2014 4:00 PM",
+		"Description": "<p>The joy that TV legend Huell Howser shared with generations of Californians infuses a new permanent exhibit to be housed in Chapman University&rsquo;s Leatherby Libraries. &ldquo;That&rsquo;s Amazing! Thirty Years of Huell Howser and <em>California&rsquo;s Gold</em>&rdquo; opens to the public Saturday, March 29, with an open house that will include live appearances by many of the stars of Howser&rsquo;s public television program, plus screenings of a new documentary on the making of <em>California&rsquo;s Gold</em> by Chapman University film professor Jeff Swimmer. The exhibit is sponsored by the <a href=\"http://www.calif.aaa.com/home.html\" target=\"_blank\">Automobile Club of Southern California</a>, and after March 29 it will be open daily during regular library hours.</p>",
+		"Venue": "Waltmar Theater",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=695",
+		"Quantity": "240",
+		"Tickets": [
+			{
+				"Ticket Name": "General Ticket",
+				"Price": "12.00",
+				"Remaining": 2
+			},
+			{
+				"Ticket Name": "AAA Member Ticket",
+				"Price": "10.00",
+				"Remaining": 2
+			},
+			{
+				"Ticket Name": "Day Of General Ticket",
+				"Price": "15.00",
+				"Remaining": 2
+			},
+			{
+				"Ticket Name": "Day Of AAA Member Ticket",
+				"Price": "10.00",
+				"Remaining": 2
+			}
+		]
+	},
+	{
+		"Event ID": "696",
+		"Event Title": "Presidential Summit Training Hike #2: Santiago Pea",
+		"Event Date/Time": "Saturday, February 15, 2014 7:00 AM",
+		"Description": "<p>Panther Escapes is leading the second hike in the series of treks in preparation for the final summit of San Gorgonia. &nbsp;This week we'll be hiking to Santiago Peak- a 14 mile in-and-out trail leading up over 4000 feet of elevation.</p> <p>Lunch and transportation will be provided! &nbsp;Meet at the volleyball courts at 7:00am.</p> <p>Tickets are $10, but when you show up Saturday morning you'll get $5 back!</p>",
+		"Venue": "Santiago Peak Trail Via Holy Jim Falls",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=696",
+		"Quantity": "21",
+		"Tickets": [
+			{
+				"Ticket Name": "Hiking Tickets",
+				"Price": "10.00",
+				"Remaining": 11
+			}
+		]
+	},
+	{
+		"Event ID": "697",
+		"Event Title": "UPB Goes to LACMA",
+		"Event Date/Time": "Saturday, February 22, 2014 10:30 AM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: 13px;\">Join Chapman University Program Board (UPB) on a cultural art exploration at the world-famous Los Angeles County Museum of Art (LACMA).&nbsp; From Alexander Calder&rsquo;s revolutionary modern sculptures to four Southern California abstract classicists&rsquo; exhibitions, LACMA offers a diverse experience sure to bring out the artistic enthusiast in anyone.&nbsp; &nbsp;</span></p> <p style=\"text-align: center;\"><span style=\"font-size: 13px;\">Free round-trip bus transportation will be provided. Spaces are limited! Registration will be open until at 5:00pm on February 21st or until spaces are filled.</span></p> <p style=\"text-align: center;\"><span style=\"font-size: 13px;\"><em>&nbsp;</em></span></p> <p style=\"text-align: center;\"><span style=\"font-size: 13px;\"><em>UPB strives to make all events open and accessible to everyone, please contact chapmanupb@gmail.com for accommodations and questions.</em></span><br /><br /></p>",
+		"Venue": "LACMA: Los Angeles County Museum of Art",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=697",
+		"Quantity": "49",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "0.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "700",
+		"Event Title": "UPB Goes to the Aquarium",
+		"Event Date/Time": "Saturday, March 1, 2014 10:30 AM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: small;\">Tired of your friends showing off their boring gold fish in their residence hall rooms? Then come join UPB on an underwater escapade to the Aquarium of the Pacific in Long Beach! You will see otters, baby penguins, jellyfish, seahorses and tons of different species of fish! Tickets start at $12.00. Want to learn more? www.aquariumofpacific.org &nbsp;Sea you then!</span></p> <p style=\"text-align: center;\"><span style=\"font-size: small;\">Free bus transportation will be provided. Meet at 255 E. Walnut Ave, Orange, CA (next to the Allred Aquatics Center).&nbsp;</span></p> <p style=\"text-align: center;\"><span style=\"font-size: small;\">Spaces are limited! Registration will be open until at 5:00pm on February 28th or until spaces are filled.</span></p> <div style=\"text-align: center;\"><em style=\"font-size: 13px;\">&nbsp;</em></div> <div style=\"text-align: center;\"><em style=\"font-size: 13px;\">UPB strives to make all events open and accessible to everyone, please contact chapmanupb@gmail.com for accommodations and questions.</em></div> <p style=\"text-align: center;\">&nbsp;</p>",
+		"Venue": "Aquarium of the Pacific - Long Beach",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=700",
+		"Quantity": "25",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "12.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "701",
+		"Event Title": "PILF Dinner and Silent Auction - Student Ticket",
+		"Event Date/Time": "Thursday, March 27, 2014 6:30 PM",
+		"Description": "<p>This site is for Chapman University Students only. Please purchase a general admission ticket <strong><a href=\"https://secure.touchnet.com/C20539_ustores/web/store_cat.jsp?STOREID=1&amp;CATID=142\">HERE</a>.</strong></p> <p>Join us for the Chapman University Fowler School of Law's Public Interest Law Foundation (PILF) 2014 Awards Dinner honoring the dedicated work of our students and community leaders in public interest law. Proceeds from the dinner and auction will support PILF's public interest summer jobs grant program. Planned auction items include professional sporting event tickets, signed music and film memorabilia, fine wines, deluxe gift baskets, restaurant passes and much more. View more information by clicking <strong><a href=\"https://www.chapman.edu/law/events/public-interest-law-foundation.aspx\">HERE</a></strong>.</p> <p><br /><strong>Ticket sales end Friday, March 21</strong></p>",
+		"Venue": "Celebrations by Turnip Rose, Costa Mesa",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=701",
+		"Quantity": "100",
+		"Tickets": [
+			{
+				"Ticket Name": "Student Ticket",
+				"Price": "25.00",
+				"Remaining": 99
+			},
+			{
+				"Ticket Name": "Student Day-of Sales",
+				"Price": "25.00",
+				"Remaining": 99
+			}
+		]
+	},
+	{
+		"Event ID": "702",
+		"Event Title": "SCIAC Women's Basketball Post Season Tournament",
+		"Event Date/Time": "Thursday, February 27, 2014 7:30 PM",
+		"Description": "<p>SCIAC Post Season Tournament</p>",
+		"Venue": "Harold Hutton Sports Center",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=702",
+		"Quantity": "2500",
+		"Tickets": [
+			{
+				"Ticket Name": "Adult",
+				"Price": "5.00",
+				"Remaining": 2176
+			},
+			{
+				"Ticket Name": "Children under 12",
+				"Price": "0.00",
+				"Remaining": 2176
+			},
+			{
+				"Ticket Name": "SCIAC ID (Student/Faculty/Staff)",
+				"Price": "0.00",
+				"Remaining": 2176
+			}
+		]
+	},
+	{
+		"Event ID": "703",
+		"Event Title": "SCIAC Women's Basketball Post Season Tournament",
+		"Event Date/Time": "Saturday, March 1, 2014 4:00 PM",
+		"Description": "<p>SCIAC Post Season Tournament</p>",
+		"Venue": "Harold Hutton Sports Center",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=703",
+		"Quantity": "2500",
+		"Tickets": [
+			{
+				"Ticket Name": "Adult",
+				"Price": "5.00",
+				"Remaining": 2035
+			},
+			{
+				"Ticket Name": "Children under 12",
+				"Price": "0.00",
+				"Remaining": 2035
+			},
+			{
+				"Ticket Name": "SCIAC ID (Student/Faculty/Staff)",
+				"Price": "0.00",
+				"Remaining": 2035
+			}
+		]
+	},
+	{
+		"Event ID": "704",
+		"Event Title": "UPB Goes to Big Bear",
+		"Event Date/Time": "Saturday, March 8, 2014 6:30 AM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: 14px;\">University Program Board (UPB) and Panther Escapes have teamed up to bring you the opportunity to shred up the mountain before the season ends. Whether you&rsquo;re a veteran skier, or haven&rsquo;t even seen the snow before, this trip has everything needed to accommodate all skill levels.If you&rsquo;ve had the desire to challenge yourself and venture one of Southern California&rsquo;s tallest mountains then this is the perfect trip for you!</span> <span style=\"font-size: 14px;\">Free bus transportation will be provided.</span></p> <p style=\"text-align: center;\"><span style=\"font-size: 14px;\">Ski and snowboard rentals, as well as lessons, will be available for any newcomers.Your ticket includes a meal voucher for lunch! <strong>Transportation, lunch, lift ticket and rentals for only $30! This is a value of at least $80-$100!</strong><br /></span></p> <p class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"font-size: 14px;\">Spaces are limited! Registration will be open until 5:00pm on March 5th or until spaces are filled.</span><br /><br /><span style=\"color: #333333; font-family: Arial,sans-serif; font-size: 14px;\"><em class=\"MsoNormal\" style=\"text-align: center;\">UPB strives to make all events open and accessible to everyone. Please contact us for accommodations!</em></span></p>",
+		"Venue": "Big Bear Mountain",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=704",
+		"Quantity": "44",
+		"Tickets": [
+			{
+				"Ticket Name": "Lift Ticket Only (no equipment rentals)",
+				"Price": "20.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Skiing Package (Lift ticket & ski rentals)",
+				"Price": "30.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Snowboarding Package (lift ticket and rental)",
+				"Price": "30.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Skiing w/ Lessons (lift ticket & rental included)",
+				"Price": "30.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Snowboard w/lessons (lift ticket & rental)",
+				"Price": "30.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "706",
+		"Event Title": "Women in Focus 2014",
+		"Event Date/Time": "Friday, April 11, 2014 1:00 PM",
+		"Description": "<p><strong><a title=\"Women in Focus Conference\" href=\"http://www.chapman.edu/dodge/special-programs/industry/women-focus.aspx\" target=\"_blank\">Women in Focus</a> </strong>is an annual conference at Dodge College featuring a panel of the most prominent women in the film profession participating in an open discussion with students and the community regarding their experiences in the industry.</p> <p>This year&rsquo;s panel spotlights <strong>the Business of Entertainment</strong> with moderator <strong>Dawn Taubin</strong>,&nbsp;Chief Marketing Officer, DreamWorks Animation, and the following panelists:</p> <p><strong>Sue Kroll</strong>, President, Worldwide Marketing and International Distribution,Warner Bros. Pictures;&nbsp;<em>The Great Gatsby</em> (2013), <em>Man of Steel</em> (2013), <em>Argo</em> (2012),<em>Dark Knight</em> Trilogy</p> <p><strong>Terry Press</strong>, Co-president, CBS Films;&nbsp;<em>Last Vegas</em> (2013), <em>Inside Llewyn Davis</em> (2013), <em>The</em> <em>Woman in Black</em> (2012), <em>Salmon Fishing in the Yemen</em> (2011)</p> <p><strong>JoAnne Sellar</strong>, Producer; <em>The Master</em> (2012), <em>There Will Be Blood</em> (2007), <em>Boogie Nights</em> (1997), <em>Magnolia</em> (2009)</p> <p>And many more!</p> <p>Please make plans to join us on Friday, April 11 at 1:30 p.m. in Folino Theater at Dodge College of Film and Media Arts.&nbsp;</p> <p><!--[if gte mso 9]><xml>  <w:WordDocument>   <w:View>Normal</w:View>   <w:Zoom>0</w:Zoom>   <w:TrackMoves/>   <w:TrackFormatting/>   <w:PunctuationKerning/>   <w:ValidateAgainstSchemas/>   <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>   <w:IgnoreMixedContent>false</w:IgnoreMixedContent>   <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>   <w:DoNotPromoteQF/>   <w:LidThemeOther>EN-US</w:LidThemeOther>   <w:LidThemeAsian>X-NONE</w:LidThemeAsian>   <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>   <w:Compatibility>    <w:BreakWrappedTables/>    <w:SnapToGridInCell/>    <w:WrapTextWithPunct/>    <w:UseAsianBreakRules/>    <w:DontGrowAutofit/>    <w:SplitPgBreakAndParaMark/>    <w:EnableOpenTypeKerning/>    <w:DontFlipMirrorIndents/>    <w:OverrideTableStyleHps/>   </w:Compatibility>   <m:mathPr>    <m:mathFont m:val=\"Cambria Math\"/>    <m:brkBin m:val=\"before\"/>    <m:brkBinSub m:val=\"--\"/>    <m:smallFrac m:val=\"off\"/>    <m:dispDef/>    <m:lMargin m:val=\"0\"/>    <m:rMargin m:val=\"0\"/>    <m:defJc m:val=\"centerGroup\"/>    <m:wrapIndent m:val=\"1440\"/>    <m:intLim m:val=\"subSup\"/>    <m:naryLim m:val=\"undOvr\"/>   </m:mathPr></w:WordDocument> </xml><![endif]--></p>",
+		"Venue": "Folino Theater",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=706",
+		"Quantity": "475",
+		"Tickets": [
+			{
+				"Ticket Name": "Dodge College Students",
+				"Price": "0.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "General Admission",
+				"Price": "0.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Luncheon VIPs",
+				"Price": "0.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "707",
+		"Event Title": "SCIAC Men's Basketball Post Season Tournament",
+		"Event Date/Time": "Saturday, March 1, 2014 7:30 PM",
+		"Description": "<p>SCIAC Post Season Tournament</p>",
+		"Venue": "Harold Hutton Sports Center",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=707",
+		"Quantity": "2500",
+		"Tickets": [
+			{
+				"Ticket Name": "Adult",
+				"Price": "5.00",
+				"Remaining": 1945
+			},
+			{
+				"Ticket Name": "Children under 12",
+				"Price": "0.00",
+				"Remaining": 1945
+			},
+			{
+				"Ticket Name": "SCIAC ID (Student/Faculty/Staff)",
+				"Price": "0.00",
+				"Remaining": 1945
+			}
+		]
+	},
+	{
+		"Event ID": "709",
+		"Event Title": "UPB Goes Paintballing",
+		"Event Date/Time": "Saturday, March 15, 2014 9:00 AM",
+		"Description": "<p class=\"Normal\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 12pt; font-family: Calibri, Arial; font-size: 11pt;\"><span class=\"Normal__Char\" style=\"font-size: 14px; font-family: arial, helvetica, sans-serif;\">Join Chapman University Program Board (UPB) and the Chapman AirSoft &amp; Paintball Club on an adventurous trip to go Paintballing at the Hollywood Sports Park! You read that right, paintballing! </span></p> <p class=\"Normal\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 12pt; font-family: Calibri, Arial; font-size: 11pt;\"><span class=\"Normal__Char\" style=\"font-size: 14px; font-family: arial, helvetica, sans-serif;\">&nbsp;</span></p> <p class=\"Normal\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 12pt; font-family: Calibri, Arial; font-size: 11pt;\"><span class=\"Normal__Char\" style=\"font-size: 14px; font-family: arial, helvetica, sans-serif;\">This is a one-time experience to be able to shoot paint at your friends for only $15 ($40+ Value)! Your ticket includes equipment rental, 400 paintballs, and round-trip transportation. </span></p> <p class=\"Normal\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 12pt; font-family: Calibri, Arial; font-size: 11pt;\"><span class=\"Normal__Char\" style=\"font-size: 14px; font-family: arial, helvetica, sans-serif;\">&nbsp;</span></p> <p class=\"Normal\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 12pt; font-family: Calibri, Arial; font-size: 11pt; text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14px;\"><span class=\"Normal__Char\">There are a limited number of discounted tickets so sign up while you can.&nbsp;</span><span style=\"text-align: center; line-height: 12pt;\">Registration will be open until 5:00pm on March 14</span><span class=\"Normal_0020_0028Web_0029__Char\" style=\"text-align: center; line-height: 12pt; vertical-align: super;\">th</span><span style=\"text-align: center; line-height: 12pt;\">or until spaces are filled.</span><span style=\"text-align: center;\">&nbsp;</span></span></p> <p class=\"Normal\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 12pt; font-family: Calibri, Arial; font-size: 11pt; text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14px;\"><span style=\"text-align: center;\">&nbsp;</span></span></p> <div style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12px;\"><em style=\"font-size: 13px;\">UPB strives to make all events open and accessible to everyone, please contact chapmanupb@gmail.com for accommodations and questions.</em></span></div> <p style=\"text-align: center;\">&nbsp;</p>",
+		"Venue": "Hollywood Sports Park (Bellflower, CA)",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=709",
+		"Quantity": "21",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "15.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "710",
+		"Event Title": "Senior Week - Class of 2014",
+		"Event Date/Time": "Friday, April 25, 2014 7:00 PM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: 18px;\"><strong>Senior Week 2014!</strong></span></p> <p><strong>UPB and Senior Legacy presents Senior Week, a celebration of the class of 2014! Senior Week will be held Monday April 21 - April 27. This is your last chance to make memories with your Chapman friends and carry-on the annual Senior Week tradition!&nbsp;</strong></p> <p>Check out the schedule below for dates/times. Three events require an RSVP and you can make your ticket selection for those events below. The remaining events are free! Transportation is provided and <strong>required&nbsp;</strong>for all off-campus events.&nbsp;</p> <p style=\"text-align: center;\">*RSVP Required</p> <p style=\"text-align: center;\"><strong>*Monday, April 21 (7:00-10:30pm) - Dave &amp; Busters Power Hour <em>($10)</em></strong></p> <p style=\"text-align: center;\"><em>Chapman is going to get its game on! Show your skills at the arcade or chill out at the bar to watch the big game. Your ticket gets you - $15 Power Card and delicious buffet dinner including salad, rosemary chicken breast and much more! Special food options will be available.<br /></em></p> <p style=\"text-align: center;\"><em>&nbsp;</em><strong>Tuesday, April 22 (7:00-9:00pm) - Panther Pool Party - <em>(Free)</em></strong></p> <p style=\"text-align: center;\"><em>Seniors are taking over the Masson Family Beach Club! Free food and fun music will make this a night you won't want to miss!</em></p> <p style=\"text-align: center;\"><em>&nbsp;</em><strong>Wednesday, April 23 (11:00-2:00pm) - 20th Annual Spring Sizzle - (<em>Free)</em> </strong></p> <p style=\"text-align: center;\"><em>Chapman's favorite tradition is back! Bring your student ID and grab your special Senior gift from the UPB table. This year's Spring Sizzle will be bigger than ever featuring carnival games, student performances, and delicious food. The menu includes corn dogs, caramel apples, fresh fruit and ice cream!</em></p> <p style=\"text-align: center;\"><strong>Thursday, April 24 (8:00-11:00pm) - Taco Night @ The District - <em>(Free)</em></strong></p> <p style=\"text-align: center;\"><em>The District is opening its doors to Chapman seniors! The first 100 seniors will receive free tacos and a live DJ will be playing your favorite music.<br /></em></p> <p style=\"text-align: center;\"><strong>*Friday, April 25 (7:00-11:30pm) - Bowling Night @ BowlMor Anaheim - <em>($10)</em></strong></p> <p style=\"text-align: center;\"><em>Join us for two hours of bowling including a full dinner buffet. Your ticket gets you - unlimited bowling, shoe rental and a gourmet pizza dinner. Special food options are available. Cash bar for 21+. The best part is that Chapman has its own private party room!&nbsp;<strong>Participants must use the provided transporation round-trip.</strong><br /></em></p> <p style=\"text-align: center;\"><strong>*Saturday, April 26 (7:30am-6:45pm) - Catalina Island Trip - <em>($25)</em></strong></p> <p style=\"text-align: center;\"><em>Join us for a day-trip to beautiful Catalina Island. Seniors only! You'll have a fun-filled day of hiking, water activities, all while enjoying the beautiful scenery. Your ticket gets you - round-trip transportation aboard the Catalina Flyer, lunch, and bus transportation to the ferry terminal. This is an amazing deal - 60% off the regular price for the Catalina Flyer ($70).&nbsp;<strong>Participants must use the provided transportation round-trip.</strong></em></p> <p style=\"text-align: center;\"><strong>*Sunday, April 27 (11:00am-1:00pm) - Senior Ring Day - <em>(Free)</em></strong></p> <p><em>This is an invitation only event for seniors receiving their Chapman class ring! Seniors will be recognized and honored for all their accomplishments and welcomed into the alumni family.<br /></em></p> <p style=\"text-align: center;\"><strong>Additional details can be found on UPB's Facebook Page</strong></p> <p style=\"text-align: center;\">UPB strives to make all events open and accessible to everyone. Please contact us at chapmanupb@gmail.com for accommodations.<strong><br /></strong></p>",
+		"Venue": "Various Venues - On & Off Campus",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=710",
+		"Quantity": "134",
+		"Tickets": [
+			{
+				"Ticket Name": "Senior Week - Dave & Busters Power Hour",
+				"Price": "10.00",
+				"Remaining": 2
+			},
+			{
+				"Ticket Name": "Senior Week - Bowling Night",
+				"Price": "10.00",
+				"Remaining": 23
+			},
+			{
+				"Ticket Name": "Senior Week - Catalina Island",
+				"Price": "25.00",
+				"Remaining": 48
+			}
+		]
+	},
+	{
+		"Event ID": "712",
+		"Event Title": "2014 Greek Skit Parent Viewing Party ",
+		"Event Date/Time": "Saturday, April 5, 2014 6:30 PM",
+		"Description": "<p><span style=\"font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: small;\"><span style=\"line-height: 18px;\">As the parent of a student in Greek Life, the Parents Ambassador Council invites you to the all new Greek Skit Parent Viewing Party! Enjoy refreshments and camaraderie with fellow Greek parents while you watch the performances on live streaming video. And for the first time, parents will have the opportunity to share the excitement of the awards presentation in Attallah Piazza.</span></span></p>",
+		"Venue": "Argyros Forum, Room 119",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=712",
+		"Quantity": "300",
+		"Tickets": [
+			{
+				"Ticket Name": "Ticket",
+				"Price": "15.00",
+				"Remaining": 161
+			},
+			{
+				"Ticket Name": "Complimentary",
+				"Price": "0.00",
+				"Remaining": 161
+			},
+			{
+				"Ticket Name": "Student",
+				"Price": "5.00",
+				"Remaining": 161
+			}
+		]
+	},
+	{
+		"Event ID": "718",
+		"Event Title": "Elie Wiesel: Evening of Stories and Story Telling",
+		"Event Date/Time": "Thursday, April 10, 2014 8:00 PM",
+		"Description": "<p>Readers Theatre presentation of excerpts from<em> King Solomon and His Magic Ring </em>and<br /><em>The Golem </em>by Elie Wiesel with a reading by Elie Wiesel, Nobel Peace Prize<br />Laureate and Distinguished Presidential Fellow, Chapman University.</p>",
+		"Venue": "Wallace All Faiths Chapel",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=718",
+		"Quantity": "325",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman University Community Tickets",
+				"Price": "0.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "General Admission",
+				"Price": "0.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Comps/VIP",
+				"Price": "0.00",
+				"Remaining": 10
+			}
+		]
+	},
+	{
+		"Event ID": "719",
+		"Event Title": "Elie Wiesel: Stories and Memories",
+		"Event Date/Time": "Tuesday, April 8, 2014 11:00 AM",
+		"Description": "<p><em>Stories and Memories: From Always and Now</em> with Elie Wiesel, Nobel Peace Prize<br />Laureate and Distinguished Presidential Fellow, Chapman University.</p>",
+		"Venue": "Wallace All Faiths Chapel",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=719",
+		"Quantity": "300",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman University Community Tickets",
+				"Price": "0.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Comps/VIP",
+				"Price": "0.00",
+				"Remaining": 7
+			}
+		]
+	},
+	{
+		"Event ID": "720",
+		"Event Title": "An Evening with Terrence McNally",
+		"Event Date/Time": "Saturday, April 26, 2014 7:30 PM",
+		"Description": "<p>Q&amp;A with playwright Terrence McNally<br />Terrence McNally is an American playwright who has received four Tony Awards, an Emmy Award, two Guggenheim Fellowships,&nbsp;a Rockefeller Grant , the Lucille Lortel Award and the Hull-Warriner Award.&nbsp;<br />Tickets are $10 and free to the Chapman community.</p>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=720",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 89
+			}
+		]
+	},
+	{
+		"Event ID": "721",
+		"Event Title": "Basics Of Self-Injury",
+		"Event Date/Time": "Friday, June 27, 2014 1:00 PM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Basics of Self-Injury</span></p> <p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Angela Kahn, M.A., LMFT</span></p>",
+		"Venue": "Chapman University, Beckman Hall Room 401",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=721",
+		"Quantity": "55",
+		"Tickets": [
+			{
+				"Ticket Name": "MFT Students, Chapman Students and Employees",
+				"Price": "0.00",
+				"Remaining": 8
+			},
+			{
+				"Ticket Name": "Chapman MFT Alumni",
+				"Price": "15.00",
+				"Remaining": 8
+			},
+			{
+				"Ticket Name": "General Public",
+				"Price": "25.00",
+				"Remaining": 8
+			}
+		]
+	},
+	{
+		"Event ID": "722",
+		"Event Title": "Trauma Focused Cognitive Behavioral Therapy",
+		"Event Date/Time": "Friday, July 11, 2014 1:00 PM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Trauma Focused Cognitive Behavioral Therapy</span></p> <p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Anaissa Ibrahimi, M.A., MFTI</span></p>",
+		"Venue": "Chapman University, Beckman Hall Room 401",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=722",
+		"Quantity": "55",
+		"Tickets": [
+			{
+				"Ticket Name": "MFT Students, Chapman Students and Employees",
+				"Price": "0.00",
+				"Remaining": 19
+			},
+			{
+				"Ticket Name": "Chapman MFT Alumni",
+				"Price": "15.00",
+				"Remaining": 19
+			},
+			{
+				"Ticket Name": "General Public",
+				"Price": "25.00",
+				"Remaining": 19
+			}
+		]
+	},
+	{
+		"Event ID": "723",
+		"Event Title": "Trauma 101",
+		"Event Date/Time": "Friday, September 26, 2014 9:00 AM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: 16px;\">TRAUMA 101</span></p> <p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Susan Jester, M.A., LMFT,&nbsp; Associate Director of the Frances Smith Center for Individual and Family Therapy</span></p> <p style=\"text-align: center;\">What are we learning from neuroscience that is transforming our understanding of trauma?&nbsp; Understand how trauma is registered in the brain and the body, and how standard therapy techniques may hinder the healing process.&nbsp; Increase your knowledge about the various types of trauma, how to recognize symptoms, and learn about promising new treatment modalities.<span style=\"font-size: 16px;\"> <br /></span></p> <p style=\"text-align: center;\">THIS EVENT IS ONLY OPEN TO CHAPMAN MFT ALUMNI, FACULTY, AND STUDENTS</p> <p>&nbsp;</p>",
+		"Venue": "Chapman University, Argyros Forum, Room 209A",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=723",
+		"Quantity": "50",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman MFT Faculty and Students",
+				"Price": "0.00",
+				"Remaining": 22
+			},
+			{
+				"Ticket Name": "Chapman MFT Alumni",
+				"Price": "15.00",
+				"Remaining": 22
+			}
+		]
+	},
+	{
+		"Event ID": "724",
+		"Event Title": "Senior Convocation and President's Toast",
+		"Event Date/Time": "Thursday, May 22, 2014 7:00 PM",
+		"Description": "<h2 class=\"header\" style=\"word-wrap: break-word; font-family: futura-pt, sans-serif; color: #434343; margin: 0px; font-size: 16px; position: relative; line-height: 1.2em; background-color: #f7f6f0; padding: 10px 45px 10px 27px; cursor: pointer;\">Senior Convocation and President's Toast</h2> <div class=\"content editableContent\" style=\"word-wrap: break-word; margin: 0px 20px 18px 27px; overflow: hidden; color: #383838; font-family: rooney-sans, rooney-sans-n4, sans-serif; font-size: 13px; line-height: 16.003000259399414px;\"> <p style=\"word-wrap: break-word; font-size: 14px; line-height: 1.45em; margin: 10px 0px;\">Senior Convocation will be held Thursday, May 22, at 7 p.m on Bert C. Williams Mall.&nbsp; This ceremony is designed for seniors and their families as we honor the achievements of the Class of 2014.&nbsp;</p> <p style=\"word-wrap: break-word; font-size: 14px; line-height: 1.45em; margin: 10px 0px;\">The President&rsquo;s Toast to the seniors will follow immediately in The Fahmy Attallah, Ph.D. Piazza.</p> <p style=\"word-wrap: break-word; font-size: 14px; line-height: 1.45em; margin: 10px 0px;\"><strong style=\"word-wrap: break-word;\">&nbsp;</strong></p> </div>",
+		"Venue": "Bert C. Williams Mall",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=724",
+		"Quantity": "2000",
+		"Tickets": [
+			{
+				"Ticket Name": "Graduating Senior",
+				"Price": "0.00",
+				"Remaining": 11
+			},
+			{
+				"Ticket Name": "Guest",
+				"Price": "0.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "725",
+		"Event Title": "11 AM - California's Gold Documentary Screening",
+		"Event Date/Time": "Saturday, March 29, 2014 11:00 AM",
+		"Description": "<p>The joy that TV legend Huell Howser shared with generations of Californians infuses a new permanent exhibit to be housed in Chapman University&rsquo;s Leatherby Libraries. &ldquo;That&rsquo;s Amazing! Thirty Years of Huell Howser and <em>California&rsquo;s Gold</em>&rdquo; opens to the public Saturday, March 29, with an open house that will include live appearances by many of the stars of Howser&rsquo;s public television program, plus screenings of a new documentary on the making of <em>California&rsquo;s Gold</em> by Chapman University film professor Jeff Swimmer. The exhibit is sponsored by the <a href=\"http://www.calif.aaa.com/home.html\" target=\"_blank\">Automobile Club of Southern California</a>, and after March 29 it will be open daily during regular library hours.</p>",
+		"Venue": "Waltmar Theater",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=725",
+		"Quantity": "240",
+		"Tickets": [
+			{
+				"Ticket Name": "General Ticket",
+				"Price": "12.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "AAA Member Ticket",
+				"Price": "10.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Day Of General Ticket",
+				"Price": "15.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Day Of AAA Member Ticket",
+				"Price": "10.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "726",
+		"Event Title": "Food Science Class of 2014 Awards Reception ",
+		"Event Date/Time": "Saturday, May 3, 2014 6:00 PM",
+		"Description": "<p>Class of 2014<br />Graduating Students&rsquo;<br />Awards Reception<br /><br />Keynote Speaker, Dr. Catherine Enright <br />Executive Vice President, Food and Agriculture<br />The Biotechnology Industry Organization<br /><br />Saturday, May 3, 2014<br />6:00 p.m.<br />Chapman University<br />Beckman Hall<br />George H.W. Bush Conference Center, Room 404</p>",
+		"Venue": "Beckman Hall, Room 404",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=726",
+		"Quantity": "200",
+		"Tickets": [
+			{
+				"Ticket Name": "RSVP Categories ",
+				"Price": "0.00",
+				"Remaining": 166
+			}
+		]
+	},
+	{
+		"Event ID": "727",
+		"Event Title": "UPB Goes to see the LA Clippers!",
+		"Event Date/Time": "Saturday, April 12, 2014 10:30 AM",
+		"Description": "<p style=\"text-align: center;\"><strong><span style=\"font-size: 13px;\">Join Chapman University Program Board (UPB) as we indulge in our competitive side and watch the LA Clippers take on the Sacramento Kings. </span></strong></p> <p style=\"text-align: center;\"><span style=\"font-size: 13px;\">With superstars like Blake Griffin and Chris Paul, the Clippers are one of the best teams in the NBA! This is your chance to see them for free! There are a limited number of tickets so sign up while you can. </span></p> <p style=\"text-align: center;\"><span style=\"font-size: 13px;\">Free bus transportation and lunch will be provided. Registration will be open until at 5:00pm on April 12th or until spaces are filled.&nbsp; <br /></span></p> <p style=\"text-align: center;\"><span style=\"font-size: 13px;\"><em>UPB strives to make all events open and accessible to everyone, please contact chapmanupb@gmail.com for accommodations and questions.</em></span><br /><br /></p>",
+		"Venue": "Staples Center - Downtown LA",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=727",
+		"Quantity": "26",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "0.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Waitlist",
+				"Price": "0.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "728",
+		"Event Title": "UPB Explores Balboa Island",
+		"Event Date/Time": "Saturday, April 19, 2014 10:00 AM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: 13px; font-family: arial,helvetica,sans-serif;\"><strong>Join Chapman University Program Board (UPB) for a day trip to Balboa Island in Newport Beach!</strong> </span></p> <p style=\"text-align: center;\"><span style=\"font-size: 13px; font-family: arial,helvetica,sans-serif;\">From a free lunch to playing at the Balboa Fun Zone, and spending time by the water, this trip is a great afternoon getaway. Best of all, the trip is free! There is a limited amount of tickets, so sign up as soon as you can! </span></p> <p style=\"text-align: center;\"><span style=\"font-size: 13px; font-family: arial,helvetica,sans-serif;\">Bus transportation is provided. </span><span style=\"font-size: 13px; font-family: arial,helvetica,sans-serif;\">Spaces are limited! Registration will be open until 5:00pm on April 18th or until spaces are filled. </span></p> <p style=\"text-align: center;\"><span style=\"font-size: 13px; font-family: arial,helvetica,sans-serif;\"><em>UPB strives to make all events open and accessible to everyone, please contact chapmanupb@gmail.com for accommodations and questions.</em></span><br /><br /></p>",
+		"Venue": "Balboa Island",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=728",
+		"Quantity": "26",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "0.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Waitlist",
+				"Price": "0.00",
+				"Remaining": 4
+			}
+		]
+	},
+	{
+		"Event ID": "729",
+		"Event Title": "3 PM - California's Gold Documentary Screening",
+		"Event Date/Time": "Saturday, March 29, 2014 3:00 PM",
+		"Description": "<p>The joy that TV legend Huell Howser shared with generations of Californians infuses a new permanent exhibit to be housed in Chapman University&rsquo;s Leatherby Libraries. &ldquo;That&rsquo;s Amazing! Thirty Years of Huell Howser and <em>California&rsquo;s Gold</em>&rdquo; opens to the public Saturday, March 29, with an open house that will include live appearances by many of the stars of Howser&rsquo;s public television program, plus screenings of a new documentary on the making of <em>California&rsquo;s Gold</em> by Chapman University film professor Jeff Swimmer. The exhibit is sponsored by the <a href=\"http://www.calif.aaa.com/home.html\" target=\"_blank\">Automobile Club of Southern California</a>, and after March 29 it will be open daily during regular library hours.</p>",
+		"Venue": "Waltmar Theater",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=729",
+		"Quantity": "240",
+		"Tickets": [
+			{
+				"Ticket Name": "General Ticket",
+				"Price": "12.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "AAA Member Ticket",
+				"Price": "10.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Day Of General Ticket",
+				"Price": "15.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Day Of AAA Member Ticket",
+				"Price": "10.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "730",
+		"Event Title": "5 PM - California's Gold Documentary Screening",
+		"Event Date/Time": "Saturday, March 29, 2014 5:00 PM",
+		"Description": "<p>The joy that TV legend Huell Howser shared with generations of Californians infuses a new permanent exhibit to be housed in Chapman University&rsquo;s Leatherby Libraries. &ldquo;That&rsquo;s Amazing! Thirty Years of Huell Howser and <em>California&rsquo;s Gold</em>&rdquo; opens to the public Saturday, March 29, with an open house that will include live appearances by many of the stars of Howser&rsquo;s public television program, plus screenings of a new documentary on the making of <em>California&rsquo;s Gold</em> by Chapman University film professor Jeff Swimmer. The exhibit is sponsored by the <a href=\"http://www.calif.aaa.com/home.html\" target=\"_blank\">Automobile Club of Southern California</a>, and after March 29 it will be open daily during regular library hours.</p>",
+		"Venue": "Waltmar Theater",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=730",
+		"Quantity": "240",
+		"Tickets": [
+			{
+				"Ticket Name": "General Ticket",
+				"Price": "12.00",
+				"Remaining": 223
+			},
+			{
+				"Ticket Name": "AAA Member Ticket",
+				"Price": "10.00",
+				"Remaining": 223
+			},
+			{
+				"Ticket Name": "Day Of General Ticket",
+				"Price": "15.00",
+				"Remaining": 223
+			},
+			{
+				"Ticket Name": "Day Of AAA Member Ticket",
+				"Price": "10.00",
+				"Remaining": 223
+			}
+		]
+	},
+	{
+		"Event ID": "731",
+		"Event Title": "American Celebration Opening Night 2014",
+		"Event Date/Time": "Friday, October 31, 2014 8:00 PM",
+		"Description": "<p>American Celebration Opening Night, on Friday, October 31st, includes a a spectacular live song-and-dance stage show produced by Chapman University's students and faculty. Guests are also invited to enjoy a post-performance dessert reception. American Celebration has grown to become one of Orange County's largest fundraising events, with proceeds supporting the Chapman Scholarship Fund.&nbsp; American Celebration is, in a word, extraordinary.</p> <p><strong>Ticket Options:</strong></p> <p><strong><em>General Seating</em>:</strong> $50.00 (Rows L-V, Balcony)</p> <p><em><strong>Sponsorship Level Seating </strong></em>(Rows B-K) <em>*To purchase a sponsorship, please contact the Office of Special Events at (714) 628-2750 or</em> <a href=\"mailto:events@chapman.edu\">events@chapman.edu</a>.</p> <p style=\"padding-left: 30px;\"><strong>Title Sponsor</strong> (16 Sponsorship Level Tickets, Company/Family Name Recognition in all printed material and website as \"Official Title Sponsor\", Full Page Advertisement, 2 Reserved Tables at Dessert Reception, Chapman University Ambassador Escort): <strong>$5,000</strong></p> <p style=\"padding-left: 30px;\"><strong>Presenting Sponsor </strong>(12 Sponsorship Level Tickets, Full Page Advertisement, Program and Website Recognition, 1 Reserved Table at Dessert Reception, Chapman University Ambassador Escort): <strong>$2,000</strong></p> <p style=\"padding-left: 30px;\"><strong>Gold Star Sponsor</strong> (8 Sponsorship Level Tickets, Program and Website Recognition, Full Page Advertisement): <strong>$1,000</strong></p> <p style=\"padding-left: 30px;\"><strong>Silver Star Sponsor</strong> (4 Sponsorship Level Tickets, Program and Website Recognition, Half Page Advertisement): <strong>$500</strong></p> <p style=\"padding-left: 30px;\"><strong>Bronze Star Sponsor</strong> (2 Sponsorship Level Tickets, Program and Website Recognition): <strong>$250</strong></p> <p><strong>Full-color program advertisments are available to purchase.<br /></strong></p> <p style=\"padding-left: 30px;\"><strong>Full-Page $200<br /></strong></p> <p style=\"padding-left: 30px;\"><strong>Half-Page $100<br /></strong></p> <p><strong><em>For more information, or to purchase a sponsorship or advertisement, please contact (714) 628-2750 or events@chapman.edu</em><br /></strong></p>",
+		"Venue": "Memorial Hall - Chapman Auditorium",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=731",
+		"Quantity": "869",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 588
+			}
+		]
+	},
+	{
+		"Event ID": "732",
+		"Event Title": "Season Finale: French Impressions",
+		"Event Date/Time": "Friday, May 23, 2014 7:00 PM",
+		"Description": "<p>Chamber Music / OC's Season Finale will feature some of the most celebrated chamber music from the French repertoire including works of Debussy, Faure, and the highly virtuosic Piano Trio of Maurice Ravel.&nbsp; Artists will include Colin Carr, Britain's foremost concert cellist, Julian Martin, distinguished Professor of Piano at The Juilliard School, and violinist Iryna Krechkovsky performing on the coveted 1689 \"Baumgartner\" Stradivarius.</p> <p><!--[if gte mso 9]><xml>  <o:OfficeDocumentSettings>   <o:AllowPNG/>  </o:OfficeDocumentSettings> </xml><![endif]--></p> <p><!--[if gte mso 9]><xml>  <w:WordDocument>   <w:View>Normal</w:View>   <w:Zoom>0</w:Zoom>   <w:TrackMoves/>   <w:TrackFormatting/>   <w:PunctuationKerning/>   <w:ValidateAgainstSchemas/>   <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>   <w:IgnoreMixedContent>false</w:IgnoreMixedContent>   <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>   <w:DoNotPromoteQF/>   <w:LidThemeOther>EN-US</w:LidThemeOther>   <w:LidThemeAsian>X-NONE</w:LidThemeAsian>   <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>   <w:Compatibility>    <w:BreakWrappedTables/>    <w:SnapToGridInCell/>    <w:WrapTextWithPunct/>    <w:UseAsianBreakRules/>    <w:DontGrowAutofit/>    <w:SplitPgBreakAndParaMark/>    <w:EnableOpenTypeKerning/>    <w:DontFlipMirrorIndents/>    <w:OverrideTableStyleHps/>   </w:Compatibility>   <m:mathPr>    <m:mathFont m:val=\"Cambria Math\"/>    <m:brkBin m:val=\"before\"/>    <m:brkBinSub m:val=\"--\"/>    <m:smallFrac m:val=\"off\"/>    <m:dispDef/>    <m:lMargin m:val=\"0\"/>    <m:rMargin m:val=\"0\"/>    <m:defJc m:val=\"centerGroup\"/>    <m:wrapIndent m:val=\"1440\"/>    <m:intLim m:val=\"subSup\"/>    <m:naryLim m:val=\"undOvr\"/>   </m:mathPr></w:WordDocument> </xml><![endif]--></p>",
+		"Venue": "Salmon Recital Hall - Bertea Hall 100",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=732",
+		"Quantity": "170",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "30.00",
+				"Remaining": 117
+			},
+			{
+				"Ticket Name": "Seniors",
+				"Price": "15.00",
+				"Remaining": 117
+			},
+			{
+				"Ticket Name": "Non-Chapman Students",
+				"Price": "10.00",
+				"Remaining": 117
+			},
+			{
+				"Ticket Name": "Chapman Community",
+				"Price": "0.00",
+				"Remaining": 117
+			}
+		]
+	},
+	{
+		"Event ID": "733",
+		"Event Title": "TEDxChapmanU 2014",
+		"Event Date/Time": "Wednesday, June 18, 2014 1:00 PM",
+		"Description": "<p><img style=\"vertical-align: top;\" src=\"http://www.chapman.edu/campus-services/marketing-communication/_files/tedx/tedx-ticketbanner.jpg\" alt=\"\" width=\"879\" height=\"198\" /></p> <blockquote> <p style=\"text-align: justify;\">The overwhelming response to last year&rsquo;s TEDxChapmanU convinced us to return with another remarkable slate of presenters this year. Continuing the theme of <em>Icons, Geniuses &amp; Mavericks</em>, the 2014 TEDxChapmanU is destined to challenge and inspire you with thought-provoking talks from extraordinary men and women. Chapman University is honored to present TEDxChapmanU in historic and intimate Memorial Hall.</p> </blockquote> <p style=\"text-align: center;\"><strong>Learn more at <a href=\"http://www.tedxchapmanu.com/\" target=\"_blank\">www.tedxchapmanu.com</a></strong></p>",
+		"Venue": "Chapman Auditorium - Memorial Hall",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=733",
+		"Quantity": "966",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "20.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Chapman Family (I.D. required)",
+				"Price": "10.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Comp Tickets",
+				"Price": "0.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Group Package (10+ Tickets = 50% discount)",
+				"Price": "20.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "At The Door Ticket Sales",
+				"Price": "10.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "735",
+		"Event Title": "The Cecil Awards 2014",
+		"Event Date/Time": "Friday, May 23, 2014 5:30 PM",
+		"Description": "<p><span style=\"font-size: 10pt; font-family: Arial, sans-serif; background-position: initial initial; background-repeat: initial initial;\">The Cecil Awards celebrates the student achievements at Dodge College of film and Media Arts at Chapman University</span><span style=\"font-size: 8.5pt; font-family: Tahoma, sans-serif; color: #333333; background-position: initial initial; background-repeat: initial initial;\">.</span></p>",
+		"Venue": "Folino Theater, Dodge College of Film & Media Arts",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=735",
+		"Quantity": "583",
+		"Tickets": [
+			{
+				"Ticket Name": "General Tickets ( Pre/Post Party, Show)",
+				"Price": "25.00",
+				"Remaining": 86
+			},
+			{
+				"Ticket Name": "Overflow",
+				"Price": "15.00",
+				"Remaining": 74
+			},
+			{
+				"Ticket Name": "After Party Only",
+				"Price": "10.00",
+				"Remaining": 43
+			}
+		]
+	},
+	{
+		"Event ID": "736",
+		"Event Title": "UPB Goes to Kayaking",
+		"Event Date/Time": "Saturday, May 3, 2014 9:00 AM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: small;\">Join Chapman University Program Board (UPB) as we explore Huntington Beach! Have a fun filled day kayaking, doing other water activities, and enjoying the beautiful beaches that Huntington Beach has to offer! There are a limited number of discounted tickets so sign up while you can.&nbsp;</span></p> <p style=\"text-align: center;\"><span style=\"font-size: small;\">Free bus transportation and lunch will be provided.&nbsp;</span></p> <p style=\"text-align: center;\"><span style=\"font-size: small;\">Spaces are limited! Registration will be open until at 5:00pm on May 2nd or until spaces are filled.&nbsp;</span></p> <div style=\"text-align: center;\"><em style=\"font-size: 13px;\">UPB strives to make all events open and accessible to everyone, please contact chapmanupb@gmail.com for accommodations and questions.</em></div> <p style=\"text-align: center;\">&nbsp;</p>",
+		"Venue": "Huntington Beach",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=736",
+		"Quantity": "12",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "5.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "737",
+		"Event Title": "Diversity & Equity Awards & Graduation Reception",
+		"Event Date/Time": "Thursday, May 8, 2014 6:00 PM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: small;\">RSVP here for the annual Diversity &amp; Equity Awards &amp; Graduation Reception! This is a celebratory event that is invite only. </span></p> <p style=\"text-align: center;\"><span style=\"font-size: small;\">This event recognizes students, staff and faculty who have contributed to making the campus, community and world a more inclusive and equitable place. Graduating seniors who have applied for stoles acknowledging their commitment to diversity and equity will be recognized along with nearly 30 award recipients! </span></p> <p style=\"text-align: center;\"><span style=\"font-size: small;\">Refreshments will be provided.</span></p> <p style=\"text-align: center;\"><span style=\"font-size: 13px;\"><em>&nbsp;</em></span><em style=\"font-size: 13px;\">Diversity &amp; Equity Initiatives and University Program Board (UPB) strive to make all events open and accessible to everyone, please contact chapmanupb@gmail.com for accommodations and questions.</em></p> <p style=\"text-align: center;\">&nbsp;</p>",
+		"Venue": "Wallace All Faiths Chapel",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=737",
+		"Quantity": "160",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "0.00",
+				"Remaining": 21
+			}
+		]
+	},
+	{
+		"Event ID": "738",
+		"Event Title": "10:30 AM - California's Gold Documentary Screening",
+		"Event Date/Time": "Saturday, September 20, 2014 10:30 AM",
+		"Description": "<p>The joy that TV legend Huell Howser shared with generations of Californians infuses a new permanent exhibit to be housed in Chapman University&rsquo;s Leatherby Libraries. &ldquo;That&rsquo;s Amazing! Thirty Years of Huell Howser and <em>California&rsquo;s Gold</em>&rdquo; will be open Saturday, September 20 with special screenings of <em>A Golden State of Mind: The Storytelling Genius of Huell Howser,</em> a documentary on the making of <em>California&rsquo;s Gold</em> by Chapman University film professor Jeff Swimmer. The exhibit is sponsored by the <a href=\"http://www.calif.aaa.com/home.html\" target=\"_blank\">Automobile Club of Southern California.</a></p>",
+		"Venue": "Memorial Hall",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=738",
+		"Quantity": "500",
+		"Tickets": [
+			{
+				"Ticket Name": "General Ticket",
+				"Price": "12.00",
+				"Remaining": 336
+			},
+			{
+				"Ticket Name": "AAA Member Ticket",
+				"Price": "10.00",
+				"Remaining": 336
+			},
+			{
+				"Ticket Name": "Day Of General Ticket",
+				"Price": "15.00",
+				"Remaining": 336
+			},
+			{
+				"Ticket Name": "Day Of AAA Member Ticket",
+				"Price": "10.00",
+				"Remaining": 336
+			}
+		]
+	},
+	{
+		"Event ID": "739",
+		"Event Title": "1:30 PM - California's Gold Documentary Screening",
+		"Event Date/Time": "Saturday, September 20, 2014 1:30 PM",
+		"Description": "<p>The joy that TV legend Huell Howser shared with generations of Californians infuses a new permanent exhibit to be housed in Chapman University&rsquo;s Leatherby Libraries. &ldquo;That&rsquo;s Amazing! Thirty Years of Huell Howser and <em>California&rsquo;s Gold</em>&rdquo; will be open Saturday, September 20 with special screenings of <em>A Golden State of Mind: The Storytelling Genius of Huell Howser,</em> a documentary on the making of <em>California&rsquo;s Gold</em> by Chapman University film professor Jeff Swimmer. The exhibit is sponsored by the <a href=\"http://www.calif.aaa.com/home.html\" target=\"_blank\">Automobile Club of Southern California.</a></p>",
+		"Venue": "Memorial Hall",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=739",
+		"Quantity": "500",
+		"Tickets": [
+			{
+				"Ticket Name": "General Ticket",
+				"Price": "12.00",
+				"Remaining": 322
+			},
+			{
+				"Ticket Name": "AAA Member Ticket",
+				"Price": "10.00",
+				"Remaining": 322
+			},
+			{
+				"Ticket Name": "Day Of General Ticket",
+				"Price": "15.00",
+				"Remaining": 322
+			},
+			{
+				"Ticket Name": "Day Of AAA Member Ticket",
+				"Price": "10.00",
+				"Remaining": 322
+			}
+		]
+	},
+	{
+		"Event ID": "740",
+		"Event Title": "UPB Hikes Palos Verdes",
+		"Event Date/Time": "Saturday, May 10, 2014 9:00 AM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: small;\">Join Chapman University Program Board (UPB) as we explore the Palos Verdes Nature Preserve! Have a fun filled day hiking the Ocean Trails Reserve and enjoying the beautiful beaches that Palos Verdes has to offer! There are a limited number spots available.&nbsp;</span></p> <p style=\"text-align: center;\"><span style=\"font-size: small;\">Free bus transportation and lunch will be provided.&nbsp;</span></p> <p style=\"text-align: center;\"><span style=\"font-size: small;\">Spaces are limited! Registration will be open until at 5:00pm on May 9th or until spaces are filled.</span></p> <p style=\"text-align: center;\"><em style=\"font-size: 13px;\">UPB strives to make all events open and accessible to everyone, please contact chapmanupb@gmail.com for accommodations and questions.</em></p> <p style=\"text-align: center;\">&nbsp;</p>",
+		"Venue": "Palos Verdes Nature Preserve",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=740",
+		"Quantity": "45",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "0.00",
+				"Remaining": 14
+			},
+			{
+				"Ticket Name": "Waitlist",
+				"Price": "0.00",
+				"Remaining": 4
+			}
+		]
+	},
+	{
+		"Event ID": "741",
+		"Event Title": "An Introduction to Sand Tray Work",
+		"Event Date/Time": "Friday, August 1, 2014 9:00 AM",
+		"Description": "<p><span style=\"font-family: tahoma,arial,helvetica,sans-serif; font-size: 14px;\">Chapman University The Frances Smith Center for Indvidual and Family Therapy</span></p> <p><span style=\"font-family: tahoma,arial,helvetica,sans-serif; font-size: 14px;\">Naveen Jonathan, Ph.D, LMFT</span></p> <p><span style=\"font-family: tahoma,arial,helvetica,sans-serif; font-size: 14px;\">An Introduction to Sand Tray Work</span></p> <p><span style=\"font-family: tahoma,arial,helvetica,sans-serif; font-size: 14px;\">Learn the basics of conducting a sand tray therapy session, the different models of sand tray work, and the connection with play therapy.</span></p> <p><span style=\"font-family: tahoma,arial,helvetica,sans-serif; font-size: 14px;\">&nbsp;</span></p> <p><span style=\"font-family: tahoma,arial,helvetica,sans-serif; font-size: 14px;\">THIS EVENT IS OPEN TO CHAPMAN MFT ALUMNI, STAFF, AND STUDENTS ONLY<br /></span></p> <p><span style=\"font-family: tahoma,arial,helvetica,sans-serif; font-size: 14px;\">TICKET SALES CLOSE ON: JULY 29, 2014</span></p> <p><span style=\"font-family: tahoma,arial,helvetica,sans-serif; font-size: 14px;\">Due to the presentation material there is limited space for this event.<br /></span></p> <p><span style=\"font-size: 14px;\"><!--[if gte mso 9]><xml>  <w:WordDocument>   <w:View>Normal</w:View>   <w:Zoom>0</w:Zoom>   <w:TrackMoves/>   <w:TrackFormatting/>   <w:PunctuationKerning/>   <w:ValidateAgainstSchemas/>   <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>   <w:IgnoreMixedContent>false</w:IgnoreMixedContent>   <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>   <w:DoNotPromoteQF/>   <w:LidThemeOther>EN-US</w:LidThemeOther>   <w:LidThemeAsian>X-NONE</w:LidThemeAsian>   <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>   <w:Compatibility>    <w:BreakWrappedTables/>    <w:SnapToGridInCell/>    <w:WrapTextWithPunct/>    <w:UseAsianBreakRules/>    <w:DontGrowAutofit/>    <w:SplitPgBreakAndParaMark/>    <w:EnableOpenTypeKerning/>    <w:DontFlipMirrorIndents/>    <w:OverrideTableStyleHps/>   </w:Compatibility>   <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>   <m:mathPr>    <m:mathFont m:val=\"Cambria Math\"/>    <m:brkBin m:val=\"before\"/>    <m:brkBinSub m:val=\"--\"/>    <m:smallFrac m:val=\"off\"/>    <m:dispDef/>    <m:lMargin m:val=\"0\"/>    <m:rMargin m:val=\"0\"/>    <m:defJc m:val=\"centerGroup\"/>    <m:wrapIndent m:val=\"1440\"/>    <m:intLim m:val=\"subSup\"/>    <m:naryLim m:val=\"undOvr\"/>   </m:mathPr></w:WordDocument> </xml><![endif]--></span></p> <p><span style=\"font-size: 14px;\">Address: Crean Hall, 501 W. Palm Ave, Orange, CA 92868<br /></span></p> <p><span style=\"font-size: 14px;\">Parking: Palm Lot located across the street from Crean Hall.&nbsp; Please park in spots that are NOT marked \"Chapman\", by the fence of the railroad track.<br /></span></p> <p><span style=\"font-size: 14px;\">&nbsp;</span></p>",
+		"Venue": "Chapman University, Crean Hall, Room 112",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=741",
+		"Quantity": "29",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman Alumni",
+				"Price": "15.00",
+				"Remaining": 6
+			},
+			{
+				"Ticket Name": "Chapman Students and Faculty",
+				"Price": "0.00",
+				"Remaining": 6
+			}
+		]
+	},
+	{
+		"Event ID": "742",
+		"Event Title": "Forecast 2014 - EXPRESS TICKETS",
+		"Event Date/Time": "Wednesday, December 3, 2014 2:00 PM",
+		"Description": "<p class=\"MsoNormal\" style=\"text-align: center; margin: 0in 0in 10pt;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Calibri;\">Hosted annually by the <a href=\"http://www.chapman.edu/research-and-institutions/anderson-center/index.aspx\">A. Gary Anderson Center for Economic Research at Chapman University</a>, the nationally recognized Economic Forecast Conference utilizes the faculty and student developed Chapman Econometric Model to analyze the California economy and greater global economic trends to provide national and local businesses and organizations with the information they need to make more effective planning and investment decisions.</span></span><span style=\"font-family: Calibri; font-size: 14px;\">&nbsp;</span></p> <p class=\"MsoNormal\" style=\"text-align: center; margin: 0in 0in 10pt;\"><span style=\"font-size: 14px;\"><em><strong><span style=\"font-family: Calibri;\">Review the economic trends of the past six months&nbsp;</span></strong></em></span><span style=\"font-size: 14px;\"><em><strong><span style=\"font-family: Calibri;\">and learn what is in store for the remainder of 2014 and into 2015!</span></strong></em></span></p> <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\">&nbsp;</p> <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Calibri;\"><strong>General Admission: $185</strong></span></span></p> <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><span style=\"font-size: 14px;\"><em><span style=\"font-family: Calibri;\">*Sponsorship opportunities available. See Sponsorship&nbsp;Opportunities&nbsp;<a href=\"../user_pages/event.asp?id=516\" target=\"_blank\">HERE</a>, or call (714) 997-6841.<br /></span></em></span></p> <p class=\"MsoNormal\" style=\"text-align: center; margin: 0in 0in 10pt;\"><em><strong><span style=\"font-size: 14px;\"><span style=\"font-family: Calibri;\">This year's conference will be held on Wednesday, December 3, 2014 at the </span></span></strong></em><em><strong><span style=\"font-size: 14px;\"><span style=\"font-family: Calibri;\"><span class=\"pageTitle\">Ren&eacute;e and Henry Segerstrom Concert Hall.</span></span></span></strong></em></p> <h1 class=\"MsoNormal\" style=\"text-align: left; margin: 0in 0in 10pt;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Calibri;\">Time</span></span></h1> <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Calibri;\">1:30 P.M. - Doors Open<br /></span></span></p> <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Calibri;\">2:00 P.M.&nbsp;- Conference Begins<br /></span></span></p> <p class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Calibri;\">3:30 P.M. - Reception</span></span></p> <h1 class=\"MsoNormal\" style=\"margin: 0in 0in 10pt;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Calibri;\">Parking</span></span></h1> <p>Complimentary self-parking available at the Park Center Garage and at the Center Tower Garage adjacent the Segerstrom Center for the Arts.</p> <p><a href=\"http://www.scfta.org/home/Content/ContentDisplay.aspx?NavID=386\">See map for details.</a></p>",
+		"Venue": "Segerstrom Center for the Arts",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=742",
+		"Quantity": "1800",
+		"Tickets": [
+			{
+				"Ticket Name": "EXPRESS TICKET",
+				"Price": "185.00",
+				"Remaining": 1073
+			},
+			{
+				"Ticket Name": "Comp - EXPRESS TICKET",
+				"Price": "0.00",
+				"Remaining": 199
+			}
+		]
+	},
+	{
+		"Event ID": "744",
+		"Event Title": "Football - Chapman vs. Linfield",
+		"Event Date/Time": "Saturday, September 13, 2014 7:00 PM",
+		"Description": "<h2 style=\"text-align: center;\"><span style=\"font-size: 12px;\">Chapman University hosts &nbsp;its first home game of the 2014-2015 football season against Northwest Conference opponent Linfield College. &nbsp;Game time is 7pm.</span></h2>",
+		"Venue": "Lastinger Athletic Complex - Chapman Stadium",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=744",
+		"Quantity": "3000",
+		"Tickets": [
+			{
+				"Ticket Name": "Adult",
+				"Price": "10.00",
+				"Remaining": 2937
+			},
+			{
+				"Ticket Name": "Children under 12",
+				"Price": "5.00",
+				"Remaining": 2937
+			},
+			{
+				"Ticket Name": "Visiting Student w/ ID",
+				"Price": "5.00",
+				"Remaining": 2937
+			},
+			{
+				"Ticket Name": "Chapman Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 2937
+			},
+			{
+				"Ticket Name": "SCIAC Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 2937
+			},
+			{
+				"Ticket Name": "Comps",
+				"Price": "0.00",
+				"Remaining": 2937
+			}
+		]
+	},
+	{
+		"Event ID": "745",
+		"Event Title": "Football - Chapman vs. Pomona Pitzer",
+		"Event Date/Time": "Saturday, October 11, 2014 7:00 PM",
+		"Description": "<h2 style=\"text-align: center;\"><span style=\"font-size: 12px;\">HOMECOMING WEEKEND: Chapman University hosts its second SCIAC game of the 2014-2015 football season against &nbsp;Pomona Pitzer College. &nbsp;Game time is 7pm.</span></h2>",
+		"Venue": "Lastinger Athletic Complex - Chapman Stadium",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=745",
+		"Quantity": "3300",
+		"Tickets": [
+			{
+				"Ticket Name": "Adult",
+				"Price": "10.00",
+				"Remaining": 3166
+			},
+			{
+				"Ticket Name": "Children under 12",
+				"Price": "5.00",
+				"Remaining": 3166
+			},
+			{
+				"Ticket Name": "Visiting Student w/ ID",
+				"Price": "5.00",
+				"Remaining": 3166
+			},
+			{
+				"Ticket Name": "Chapman Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 3166
+			},
+			{
+				"Ticket Name": "SCIAC Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 3166
+			},
+			{
+				"Ticket Name": "Comps",
+				"Price": "0.00",
+				"Remaining": 3166
+			}
+		]
+	},
+	{
+		"Event ID": "746",
+		"Event Title": "Keyboard Conversations: Chopin",
+		"Event Date/Time": "Thursday, September 11, 2014 7:30 PM",
+		"Description": "<p><span style=\"background-color: #ffffff; font-family: arial,helvetica,sans-serif; font-size: 10pt;\"><strong>Keyboard Conversations with Jeffrey Siegel: The Romantic Music of Chopin<br /></strong>Chapman University President's Fellow and Keyboard Conversation pianist, Jeffrey Siegel, presents THE ROMANTIC MUSIC OF CHOPIN &ndash; heroic Polonaises, dreamy Nocturnes, vivacious Waltzes, and the mystery behind one of Chopin&rsquo;s most beloved and familiar works, the Fantasy Impromptu.<br />Salmon Recital Hall<br />7:30pm<br />Package Ticket: $50 includes admission to both Keyboard Conversation performances and preferred reserved event seating.<br />Single tickets are also available: $35 general admission; $20 senior citizens, alumni, non-Chapman students and Chapman community<br /></span></p>",
+		"Venue": "Salmon Recital Hall, Bertea Hall 100",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=746",
+		"Quantity": "200",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "35.00",
+				"Remaining": 186
+			},
+			{
+				"Ticket Name": "Senior Citizens (55+), Chapman Community",
+				"Price": "20.00",
+				"Remaining": 186
+			},
+			{
+				"Ticket Name": "Music Student",
+				"Price": "0.00",
+				"Remaining": 186
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 186
+			}
+		]
+	},
+	{
+		"Event ID": "747",
+		"Event Title": "Keyboard Conversations: Beethoven",
+		"Event Date/Time": "Thursday, September 18, 2014 7:30 PM",
+		"Description": "<p><span style=\"background-color: #ffffff; font-family: arial,helvetica,sans-serif; font-size: 10pt;\"><strong>Keyboard Conversations with Jeffrey Siegel: The Power and Passion of Beethoven<br /></strong>Chapman University President's Fellow and Keyboard Conversation pianist, Jeffrey Siegel, presents THE POWER AND PASSION OF BEETHOVEN. This concert includes some of Beethoven&rsquo;s well-known pieces with interesting stories about their origins and musical ingredients - The Rage over a Lost Penny, the Moonlight Sonata, the \"Farewell Sonata\" (who was leaving and why was Beethoven so deeply affected?)<br />Salmon Recital Hall<br />7:30pm<br />Package Ticket: $50 includes admission to both Keyboard Conversation performances and preferred reserved event seating.<br />Single tickets are also available: $35 general admission; $20 senior citizens, alumni, non-Chapman students and Chapman community<br /></span></p>",
+		"Venue": "Salmon Recital Hall, Bertea Hall 100",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=747",
+		"Quantity": "120",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission",
+				"Price": "35.00",
+				"Remaining": 110
+			},
+			{
+				"Ticket Name": "Senior Citizens (55+), Chapman Community",
+				"Price": "20.00",
+				"Remaining": 110
+			},
+			{
+				"Ticket Name": "Music Student",
+				"Price": "0.00",
+				"Remaining": 110
+			},
+			{
+				"Ticket Name": "Comp",
+				"Price": "0.00",
+				"Remaining": 110
+			}
+		]
+	},
+	{
+		"Event ID": "748",
+		"Event Title": "Keyboard Conservations - PACKAGE 9/11 & 9/18",
+		"Event Date/Time": "Thursday, September 11, 2014 7:30 PM",
+		"Description": "<h3>Keyboard Conversation Series<br />Subscription Package</h3> <p><em>Featuring Chapman University President's Fellow and Keyboard Conversation pianist, Jeffrey Siegel</em></p> <table width=\"850\" align=\"center\"> <tbody> <tr> <td align=\"center\" valign=\"top\" width=\"250\"> <h3>Keyboard Conversations with Jeffrey Siegel: The Romantic Music of Chopin<br /><br />Thursday, September 11, 2014<br />7:30pm</h3> </td> <td align=\"center\" valign=\"top\" width=\"250\"> <h3>Keyboard Conversations with Jeffrey Siegel: The Power and Passion of Beethoven<br /><br />Thursday, September 18, 2014<br />7:30pm<br /><br /></h3> </td> <td align=\"center\" valign=\"top\" width=\"250\"> <h3><br />&nbsp;</h3> </td> </tr> </tbody> </table> <p><em>Grace Fong, Artistic Director</em></p> <p>Package Ticket: $50 includes admission to both Keyboard Conversation performances and preferred reserved event seating.<br />Single tickets are also available: $35 general admission; $20 senior citizens, alumni, non-Chapman students and Chapman community</p>",
+		"Venue": "Salmon Recital Hall, Bertea Hall 100",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=748",
+		"Quantity": "75",
+		"Tickets": [
+			{
+				"Ticket Name": "Package Price",
+				"Price": "50.00",
+				"Remaining": 37
+			}
+		]
+	},
+	{
+		"Event ID": "749",
+		"Event Title": "Football - Chapman vs. Occidental",
+		"Event Date/Time": "Saturday, October 18, 2014 7:00 PM",
+		"Description": "<h2 style=\"text-align: center;\"><span style=\"font-size: 12px;\">Chapman University hosts &nbsp;SCIAC opponent Occidental College. &nbsp;Game time is 7pm.</span></h2>",
+		"Venue": "Lastinger Athletic Complex - Chapman Stadium",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=749",
+		"Quantity": "3000",
+		"Tickets": [
+			{
+				"Ticket Name": "Adult",
+				"Price": "10.00",
+				"Remaining": 2991
+			},
+			{
+				"Ticket Name": "Children under 12",
+				"Price": "5.00",
+				"Remaining": 2991
+			},
+			{
+				"Ticket Name": "Visiting Student w/ ID",
+				"Price": "5.00",
+				"Remaining": 2991
+			},
+			{
+				"Ticket Name": "Chapman Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 2991
+			},
+			{
+				"Ticket Name": "SCIAC Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 2991
+			},
+			{
+				"Ticket Name": "Comps",
+				"Price": "0.00",
+				"Remaining": 2991
+			}
+		]
+	},
+	{
+		"Event ID": "750",
+		"Event Title": "Football - Chapman vs. La Verne",
+		"Event Date/Time": "Saturday, November 1, 2014 7:00 PM",
+		"Description": "<h2 style=\"text-align: center;\"><span style=\"font-size: 12px;\">Chapman University hosts SCIAC opponent La Verne. &nbsp;Game time is 7pm.</span></h2>",
+		"Venue": "Lastinger Athletic Complex - Chapman Stadium",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=750",
+		"Quantity": "3000",
+		"Tickets": [
+			{
+				"Ticket Name": "Adult",
+				"Price": "10.00",
+				"Remaining": 2991
+			},
+			{
+				"Ticket Name": "Children under 12",
+				"Price": "5.00",
+				"Remaining": 2991
+			},
+			{
+				"Ticket Name": "Visiting Student w/ ID",
+				"Price": "5.00",
+				"Remaining": 2991
+			},
+			{
+				"Ticket Name": "Chapman Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 2991
+			},
+			{
+				"Ticket Name": "SCIAC Student/Faculty/Staff",
+				"Price": "0.00",
+				"Remaining": 2991
+			},
+			{
+				"Ticket Name": "Comps",
+				"Price": "0.00",
+				"Remaining": 2991
+			}
+		]
+	},
+	{
+		"Event ID": "751",
+		"Event Title": "Narrative Therapy",
+		"Event Date/Time": "Friday, October 24, 2014 1:00 PM",
+		"Description": "<p>Narrative Therapy</p> <p>Anne Arnold, M.A., LMFT</p>",
+		"Venue": "Chapman University, Beckman Hall,  Room 404",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=751",
+		"Quantity": "60",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman MFT Faculty and Students",
+				"Price": "0.00",
+				"Remaining": 58
+			},
+			{
+				"Ticket Name": "Chapman MFT Alumni",
+				"Price": "15.00",
+				"Remaining": 58
+			},
+			{
+				"Ticket Name": "General Public",
+				"Price": "25.00",
+				"Remaining": 58
+			}
+		]
+	},
+	{
+		"Event ID": "753",
+		"Event Title": "Hot Mikado  10/3/14",
+		"Event Date/Time": "Friday, October 3, 2014 7:30 PM",
+		"Description": "<p><em><strong>Hot Mikado</strong></em><br />Book and Lyrics Adapted by David H. Bell; Music Adapted and Arranged by Rob Bowman; Based on The Mikado by W.S. Gilbert and Arthur Sullivan<br />Directed by Nina LeNoir, Music Direction by Bill Brown<br /><em><strong><br /></strong>In a land where outlandish laws sentence people to death for almost any indiscretion, jazz, and the blues, and gospel are spoken fluently. Hot Mikado weaves a tale of hilarious proportions and, despite the life or death stakes, characters still find time to tap their toes and do their fair share of scatting. Based on the classic Gilbert and Sullivan operetta, this musical stays faithful to the original in song and story, but sets everything in a 1940s jazz club setting, mixing the two into a wild and entertaining evening of theatre.</em></p> <p>Waltmar Theatre <br />7:30pm, with an additional performance Oct. 11 at 2pm<br />$20 general admission; $15 senior citizens, students and alumni</p>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=753",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 240
+			}
+		]
+	},
+	{
+		"Event ID": "754",
+		"Event Title": "Hot Mikado  10/4/14",
+		"Event Date/Time": "Saturday, October 4, 2014 7:30 PM",
+		"Description": "<p><em><strong>Hot Mikado</strong></em><br />Book and Lyrics Adapted by David H. Bell; Music Adapted and Arranged by Rob Bowman; Based on The Mikado by W.S. Gilbert and Arthur Sullivan<br />Directed by Nina LeNoir, Music Direction by Bill Brown<br /><em><strong><br /></strong>In a land where outlandish laws sentence people to death for almost any indiscretion, jazz, and the blues, and gospel are spoken fluently. Hot Mikado weaves a tale of hilarious proportions and, despite the life or death stakes, characters still find time to tap their toes and do their fair share of scatting. Based on the classic Gilbert and Sullivan operetta, this musical stays faithful to the original in song and story, but sets everything in a 1940s jazz club setting, mixing the two into a wild and entertaining evening of theatre.</em></p> <p>Waltmar Theatre <br />7:30pm, with an additional performance Oct. 11 at 2pm<br />$20 general admission; $15 senior citizens, students and alumni</p>",
+		"Venue": "Waltmar Theatre",
+		"Pricing": "Variable",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=754",
+		"Quantity": "244",
+		"Tickets": [
+			{
+				"Ticket Name": "Tickets",
+				"Price": "0.00",
+				"Remaining": 241
+			}
+		]
+	},
+	{
+		"Event ID": "759",
+		"Event Title": "Angel's Baseball vs. Oakland A's (SOLD OUT)",
+		"Event Date/Time": "Sunday, August 31, 2014 11:30 AM",
+		"Description": "<p style=\"text-align: center;\"><strong><span style=\"font-size: 13px;\">Get your friends together for a fun outing to see the Orange County's baseball team, the LA Angels of Anaheim!</span></strong></p> <p style=\"text-align: center;\"><span style=\"font-size: 13px;\">With superstars like Mike Trout and Albert Pujols, the Angels are one of the best teams in the MLB! This is your chance to see them compete with their rivals, the Oakland A's for only $5.00! There are a limited number of tickets so sign up while you can. </span></p> <p style=\"text-align: center;\"><span style=\"font-size: 13px;\">Free bus transportation will be provided. Registration will be open until at 12:00am on August 31 or until spaces are filled.&nbsp; <br /></span></p> <p style=\"text-align: center;\"><span style=\"font-size: 13px;\"><em>UPB strives to make all events open and accessible to everyone, please contact orientation@chapman.edu for accommodations and questions.</em></span><br /><br /></p>",
+		"Venue": "Angels Stadium - Anaheim, CA",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=759",
+		"Quantity": "140",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "5.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "760",
+		"Event Title": "Fall Concert featuring A$AP Ferg",
+		"Event Date/Time": "Friday, September 19, 2014 8:00 PM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Chapman University presents</span></strong></span></p> <p style=\"text-align: center;\"><span style=\"font-size: 18px;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\">A$AP Ferg</span></strong></span></p> <p style=\"text-align: center;\"><span><strong><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 14px;\">with </span><span style=\"font-size: medium;\">DJ Kap Slap</span></span></strong></span></p> <p style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\">University Program Board (UPB) and Chapman Radio present their 2014 fall concert featuring headliner A$AP Ferg with support from DJ Kap Slap. You won&rsquo;t want to miss the biggest concert of the year at The Grove in Anaheim! Doors open at 8:00 p.m.</span></p> <p style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Tickets will be sold during Welcome Week for a special price of $15 until September 7th! The Regular ticket price will be $20 beginning September 8th. Any remaining tickets will be $25 at the door.</span></p> <p style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Ticket sales will be available online until 12:00 p.m. on September 19th and remaining tickets will be available at the door!&nbsp;</span></p> <p style=\"text-align: center;\">&nbsp;</p> <p style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\">UPB strives to make all events open and accessible to everyone, please contact chapmanupb@gmail.com for accommodations and questions.</span></p>",
+		"Venue": "City National Grove of Anaheim",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=760",
+		"Quantity": "1659",
+		"Tickets": [
+			{
+				"Ticket Name": "General Admission - WW Special",
+				"Price": "15.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Comps",
+				"Price": "0.00",
+				"Remaining": 49
+			},
+			{
+				"Ticket Name": "General Admission - Regular Price",
+				"Price": "20.00",
+				"Remaining": 956
+			}
+		]
+	},
+	{
+		"Event ID": "761",
+		"Event Title": "Chapman University Goes to Six Flags! (SOLD OUT)",
+		"Event Date/Time": "Saturday, September 6, 2014 9:45 AM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: large;\">&ldquo;It&rsquo;s Playtime!&rdquo; Get ready for a trip to Magic Mountain! University Program Board (UPB) Explore SoCal is going to Six Flags on Saturday, September 6th. For the special price of $25, students will get free transportation to thrilling rides and attractions throughout the day! Buses will leave campus at 10:00 a.m. and return at 9:00 p.m.&nbsp;</span></p> <p style=\"text-align: center;\"><span style=\"font-size: large;\">Spaces are limited! Registration will be open until at 5:00 p.m. on September 5th or until spaces are filled.</span></p> <p style=\"text-align: center;\"><span style=\"font-size: large;\">UPB strives to make all events open and accessible to everyone, please contact chapmanupb@gmail.com for accommodations and questions.</span></p> <div style=\"text-align: center;\">&nbsp;</div>",
+		"Venue": "Six Flags Magic Mountain - Valencia, CA",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=761",
+		"Quantity": "100",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman Student",
+				"Price": "25.00",
+				"Remaining": 0
+			}
+		]
+	},
+	{
+		"Event ID": "768",
+		"Event Title": "Chapman University Goes to Disneyland",
+		"Event Date/Time": "Saturday, September 13, 2014 9:30 AM",
+		"Description": "<p style=\"text-align: center;\"><span style=\"font-size: large;\">&ldquo;A dream is a wish your heart makes&hellip;&rdquo; and UPB and Residence Life are going to make your dreams come true! Spend the entire day at the Happiest Place on Earth and hang out with Mickey and friends! Meet all of your Disney heroes, indulge in some Dole pineapple whip, and park-hop between Disneyland and California Adventure with the special parkhopper ticket price of <strong>ONLY $30</strong>.</span></p> <p style=\"text-align: center;\"><span style=\"font-size: large;\">Spaces are limited so reserve your spot now! There are two departure times and all buses arrive back to campus by 11:30 pm.&nbsp;</span></p> <p style=\"text-align: center;\"><span style=\"font-size: large;\">UPB strives to make all events open and accessible to everyone, please contact chapmanupb@gmail.com for accommodations and questions.</span></p> <div style=\"text-align: center;\">&nbsp;</div>",
+		"Venue": "Disneyland Resort - Anaheim, CA",
+		"Pricing": "Fixed",
+		"URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=768",
+		"Quantity": "220",
+		"Tickets": [
+			{
+				"Ticket Name": "Chapman Disneyland - 9:30AM Bus",
+				"Price": "30.00",
+				"Remaining": 0
+			},
+			{
+				"Ticket Name": "Chapman Disneyland - 10:30AM Bus",
+				"Price": "30.00",
+				"Remaining": 0
+			}
+		]
+	}
+]

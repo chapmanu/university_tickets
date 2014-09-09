@@ -1,5 +1,4 @@
-require "university_tickets/version"
+require 'university_tickets/version'
 
-module UniversityTickets
-  # Your code goes here...
-end
+require 'university_tickets/event'
+require 'university_tickets/ticket'
