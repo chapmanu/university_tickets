@@ -1,3 +1,4 @@
+require 'bundler/setup'
 require 'university_tickets'
 
 # Helpers for file paths
