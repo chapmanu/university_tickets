@@ -1,6 +1,6 @@
 module UniversityTickets
   class Event
-    attr_accessor :id, :title, :datetime, :description, :venue, :pricing, :url, :quantity, :tickets
+    attr_accessor :id, :title, :datetime, :description, :venue, :pricing, :url, :quantity, :tickets, :last_modified
 
     # Initializes a new Event object with the parsed JSON from the API.
     #
@@ -9,7 +9,7 @@ module UniversityTickets
     def initialize(hash)
       hash.each do |key, value|
         attribute = ATTRIBUTE_MAP[key.to_s]
-        send("#{attribute}=", value) if respond_to?(attribute)
+        send("#{attribute}=", value) if (attribute && respond_to?(attribute))
       end
     end
 
@@ -29,7 +29,8 @@ module UniversityTickets
        'Pricing'         => :pricing,
        'URL'             => :url,
        'Quantity'        => :quantity,
-       'Tickets'         => :tickets
+       'Tickets'         => :tickets,
+       'Last_Modified'   => :last_modified
     }
   end
 end
