@@ -29,13 +29,28 @@ module UniversityTickets
     # @return [Array<UniversityTicket::Event>]
     def get_events(filter)
       if filter.is_a? Symbol
-        get_events_between build_date_range(filter)
+        get_events_between build_date_range_from_symbol(filter)
       elsif filter.is_a? Hash
-        # Do something else
+        get_events_between build_date_range_from_hash(filter)
       end
     end
 
-    def build_date_range(phrase)
+    def build_date_range_from_hash(hash)
+      if hash.keys.length == 1 && hash[:on]
+        start_date = Date.parse(hash[:on])
+        { :start => start_date, :end => start_date + 1 }
+      elsif hash.keys.length == 2 && hash[:start] && hash[:end]
+        start_date = Date.parse(hash[:start])
+        end_date   = Date.parse(hash[:end])
+        { :start => start_date, :end => end_date }
+      else
+        raise "Invalid Date Range #{hash}"
+      end
+    rescue
+      raise "Invalid Date Range #{hash}"
+    end
+
+    def build_date_range_from_symbol(phrase)
        today = Date.today
        case phrase
         when :today
@@ -49,13 +64,17 @@ module UniversityTickets
         when :this_year
           { :start => start_of_year.to_s, :end => end_of_year.to_s }
         else
-          {}
+          raise "Unknown Parameter: #{phrase}"
         end
     end
 
     def get_events_between(date_range)
       json = get('', date_range).body
-      JSON.parse(json).map{|event_hash| UniversityTickets::Event.new(event_hash) }
+      if json.empty?
+        []
+      else
+        JSON.parse(json).map{|event_hash| UniversityTickets::Event.new(event_hash) }
+      end
     end
 
 
