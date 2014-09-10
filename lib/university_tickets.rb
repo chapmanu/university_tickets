@@ -1,3 +1,5 @@
+require 'faraday'
+
 require 'university_tickets/version'
 require 'university_tickets/date_utils'
 require 'university_tickets/client'

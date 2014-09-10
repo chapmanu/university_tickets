@@ -6,7 +6,7 @@ module UniversityTickets
   #   UniversityTickets JSON API.  This is powered by the Faraday
   #   Ruby gem.
   class Client
-    include DateUtils
+    include ::UniversityTickets::DateUtils
 
     attr_accessor :base_url
 
@@ -27,10 +27,10 @@ module UniversityTickets
     # @param filter [Symbol, Hash]
     # @return [Array<UniversityTicket::Event>]
     def get_events(filter)
-      if filter.is_a Symbol
-        get_events_between convert_dates_hash(filter)
-      elsif filter.is_a Hash
-        get_events_between date_range(filter)
+      if filter.is_a? Symbol
+        get_events_between build_date_range(filter)
+      elsif filter.is_a? Hash
+        # Do something else
       end
     end
 
@@ -42,14 +42,19 @@ module UniversityTickets
         when :tomorrow
           { :start => (today + 1).to_s, :end => (today + 2).to_s }
         when :this_week
-          { :start => start_of_week(today).to_s, :end => end_of_week(today).to_s }
+          { :start => start_of_week.to_s, :end => end_of_week.to_s }
         when :this_month
-          { :start => start_of_month(today).to_s, :end => end_of_month(today).to_s }
+          { :start => start_of_month.to_s, :end => end_of_month.to_s }
         when :this_year
-          { :start => start_of_year(today).to_s, :end => end_of_month(today).to_s }
+          { :start => start_of_year.to_s, :end => end_of_year.to_s }
         else
           {}
         end
+    end
+
+    def get_events_between(date_range)
+      json = get('/', date_range).body
+      JSON.parse(json).map{|event_hash| UniversityTickets.new(event_hash) }
     end
 
 
