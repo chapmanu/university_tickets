@@ -1,4 +1,5 @@
 require 'time'
+require 'json'
 
 module UniversityTickets
   # @author James Kerr
@@ -53,8 +54,8 @@ module UniversityTickets
     end
 
     def get_events_between(date_range)
-      json = get('/', date_range).body
-      JSON.parse(json).map{|event_hash| UniversityTickets.new(event_hash) }
+      json = get('', date_range).body
+      JSON.parse(json).map{|event_hash| UniversityTickets::Event.new(event_hash) }
     end
 
 
