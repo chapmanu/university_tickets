@@ -26,12 +26,13 @@ module UniversityTickets
     # Method to get a list of events from the API
     #
     # @param filter [Symbol, Hash]
+    # @param order [Hash]
     # @return [Array<UniversityTicket::Event>]
-    def get_events(filter)
+    def events(filter, order)
       if filter.is_a? Symbol
-        get_events_between build_date_range_from_symbol(filter)
+        events_between build_date_range_from_symbol(filter)
       elsif filter.is_a? Hash
-        get_events_between build_date_range_from_hash(filter)
+        events_between build_date_range_from_hash(filter)
       end
     end
 
@@ -68,8 +69,8 @@ module UniversityTickets
         end
     end
 
-    def get_events_between(date_range)
-      json = get('', date_range).body
+    def events_between(date_range, order)
+      json = get('', date_range.merge(order)).body
       if json.empty?
         []
       else
