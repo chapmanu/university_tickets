@@ -69,7 +69,7 @@ module UniversityTickets
         end
     end
 
-    def events_between(date_range, order)
+    def events_between(date_range, order = {})
       json = get('', date_range.merge(order)).body
       if json.empty?
         []
