@@ -1,0 +1,25 @@
+[
+  {
+    "Event ID": "501",
+    "Event Title": "led zeppelin",
+    "Event Date/Time": "Saturday, June 20, 2015 1:00 PM",
+    "Description": "<p><strong>hallway</strong></p>",
+    "Venue": "I'm too tired to be creative",
+    "Last_Modified": "Friday, April 12, 2013 1:04 PM",
+    "Pricing": "Fixed",
+    "URL": "http://chapman.universitytickets.com/user_pages/event.asp?id=501",
+    "Quantity": "99999",
+    "Tickets": [
+      {
+        "Ticket Name": "GENERAL ADMISSION",
+        "Price": "1.00",
+        "Remaining": 99998
+      },
+      {
+        "Ticket Name": "GENERAL ADMISSION",
+        "Price": "99.00",
+        "Remaining": 99998
+      }
+    ]
+  }
+]

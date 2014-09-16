@@ -4,6 +4,9 @@ require 'university_tickets'
 SPEC_ROOT = File.dirname(__FILE__)
 SAMPLES   = File.join(SPEC_ROOT, 'samples')
 
+# Helpers for stubs
+require 'stub_helper.rb'
+
 RSpec.configure do |config|
 
   config.expect_with :rspec do |expectations|
