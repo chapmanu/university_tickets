@@ -27,7 +27,24 @@ describe UniversityTickets::Client do
   end
 
   describe '#events' do
+    it 'returns an empty array when there are no results' do
+      stub_events_no_data
+      events = client.events(on: Date.new(2000,1,1))
+      expect(events).to eq([])
+    end
 
+    it 'returns an empty array when there is weird data' do
+      stub_events_with_weird_data
+      events = client.events(on: Date.new(2000, 1,1))
+      expect(events).to be_nil
+    end
+
+    it 'returns instantiated event objects when good json' do
+      stub_events_with_good_data
+      events = client.events(start: Date.new(2000,1,1), end: Date.new(2001,1,1))
+      expect(events).to include(UniversityTickets::Event)
+      expect(events.length).to eq(193)
+    end
   end
 
   describe '#event' do

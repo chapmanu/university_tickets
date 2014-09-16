@@ -38,11 +38,11 @@ module UniversityTickets
 		# @param filter [Symbol, Hash]
 		# @param order [Hash]
 		# @return [Array<UniversityTicket::Event>]
-		def events(filter, order)
+		def events(filter, order = {})
 			if filter.is_a? Symbol
-				events_between build_date_range_from_symbol(filter)
+				events_between build_date_range_from_symbol(filter), order
 			elsif filter.is_a? Hash
-				events_between build_date_range_from_hash(filter)
+				events_between build_date_range_from_hash(filter), order
 			end
 		end
 
@@ -56,11 +56,8 @@ module UniversityTickets
 		# @param order [Hash]
 		def events_between(date_range, order = {})
 			json = get('', date_range.merge(order)).body
-			if json.empty?
-				[]
-			else
-				JSON.parse(json).map{|event_hash| UniversityTickets::Event.new(event_hash) }
-			end
+			parsed = valid_json?(json) ? JSON.parse(json) : false
+			parsed ? JSON.parse(json).map{|event_hash| UniversityTickets::Event.new(event_hash) } : nil
 		end
 
 		# Creates a date range from a hash parameter
@@ -69,11 +66,11 @@ module UniversityTickets
 		# @return [Hash]
 		def build_date_range_from_hash(hash)
 			if hash.keys.length == 1 && hash[:on]
-				start_date = Date.parse(hash[:on])
+				start_date = hash[:on].is_a?(Date) ? hash[:on] : Date.parse(hash[:on])
 				{ :start => start_date, :end => start_date + 1 }
 			elsif hash.keys.length == 2 && hash[:start] && hash[:end]
-				start_date = Date.parse(hash[:start])
-				end_date   = Date.parse(hash[:end])
+				start_date = hash[:start].is_a?(Date) ? hash[:start] : Date.parse(hash[:start])
+				end_date   = hash[:end].is_a?(Date)   ? hash[:end]   : Date.parse(hash[:end])
 				{ :start => start_date, :end => end_date }
 			else
 				raise "Invalid Date Range #{hash}"
