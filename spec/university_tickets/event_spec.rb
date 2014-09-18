@@ -14,4 +14,21 @@ describe UniversityTickets::Event do
   it { is_expected.to have_attributes(:url         => 'http://chapman.universitytickets.com/user_pages/event.asp?id=185') }
   it { is_expected.to have_attributes(:quantity    => '200') }
   it { is_expected.to have_attributes(:tickets     => an_instance_of(Array)) }
+
+  describe '#make_prices_negative' do
+    context 'when pricing is variable' do
+      it 'makes all prices -1' do
+        variable_event_hash = event_hash.dup
+        variable_event_hash['Pricing'] = 'Variable'
+        event = UniversityTickets::Event.new(variable_event_hash)
+        expect(event.tickets.map(&:price)).to eq([-1, -1, -1])
+      end
+    end
+    context 'when pricing is fixed' do
+      it 'leaves prices as they are' do
+        event = UniversityTickets::Event.new(event_hash)
+        expect(event.tickets.map(&:price)).to eq(["10.00", "5.00", "0.00"])
+      end
+    end
+  end
 end

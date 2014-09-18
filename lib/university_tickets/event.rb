@@ -11,6 +11,7 @@ module UniversityTickets
         attribute = ATTRIBUTE_MAP[key.to_s]
         send("#{attribute}=", value) if (attribute && respond_to?(attribute))
       end
+      make_prices_negative if pricing.downcase == 'variable'
     end
 
     def tickets=(array)
@@ -18,6 +19,12 @@ module UniversityTickets
     end
 
     private
+
+    # When pricing is 'variable' the actual ticket costs are irrelevant because
+    # the ticket is based on the seat that the user chooses.
+    def make_prices_negative
+      tickets.each{|ticket| ticket.price = -1}
+    end
 
     # Maps the keys for the raw JSON API to the attributes to attribute names
     ATTRIBUTE_MAP = {
